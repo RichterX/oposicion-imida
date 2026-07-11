@@ -8,7 +8,7 @@
 Repositorio:
 https://github.com/RichterX/oposicion-imida
 
-[indice de contenidos del manual](manual/index.md)
+Contenidos: [Indice de contenidos del manual](manual/index.md)
 
 ---
 
