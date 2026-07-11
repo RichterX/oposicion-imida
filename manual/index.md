@@ -23,7 +23,7 @@
 - Shell
 - Distribuciones Linux
 
-## 1.2 Sistema de archivos
+## [1.2 Sistema de archivos](01-administracion-sistemas/01.02-sistema-archivos.md)
 
 - Directorio raíz
 - Jerarquía del sistema
