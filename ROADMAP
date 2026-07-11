@@ -1,0 +1,108 @@
+# 🗺️ ROADMAP
+
+> Hoja de ruta del proyecto **Manual IMIDA**.
+
+Este documento refleja el estado actual del proyecto y el progreso de cada bloque.
+
+---
+
+# Estado general
+
+- [x] Estructura del proyecto
+- [x] README
+- [x] ROADMAP
+- [x] CHANGELOG
+- [ ] Bloque 1
+- [ ] Bloque 2
+- [ ] Bloque 3
+- [ ] Bloque 4
+- [ ] Bloque 5
+- [ ] Bloque 6
+- [ ] Bloque 7
+- [ ] Bloque 8
+- [ ] Simulacro final
+- [ ] Revisión completa
+
+---
+
+# 📚 Bloque 0 · Introducción
+
+- [x] Bienvenida
+- [x] Índice
+- [x] Progreso
+- [x] Cómo estudiar el manual
+
+---
+
+# 🐧 Bloque 1 · Administración de Sistemas
+
+- [x] 1.1 Introducción a GNU/Linux
+- [x] 1.2 Sistema de archivos
+- [x] 1.3 Usuarios y grupos
+- [ ] 1.4 Administración de usuarios y grupos
+- [ ] 1.5 Permisos
+- [ ] 1.6 Procesos
+- [ ] 1.7 Bash
+- [ ] 1.8 Servicios (systemd)
+- [ ] 1.9 Gestión de paquetes
+- [ ] 1.10 Administración básica
+- [ ] 1.11 Windows Server
+- [ ] 1.12 Active Directory
+
+---
+
+## Objetivos del bloque
+
+- [ ] Tarjetas completas
+- [ ] Banco de preguntas
+- [ ] Mini tests
+- [ ] Simulacro del bloque
+- [ ] Revisión del bloque
+
+---
+
+# 🌐 Bloque 2 · Redes
+
+Pendiente
+
+---
+
+# 🗄️ Bloque 3 · Bases de datos
+
+Pendiente
+
+---
+
+# 🖥️ Bloque 4 · Infraestructura
+
+Pendiente
+
+---
+
+# 💻 Bloque 5 · Programación
+
+Pendiente
+
+---
+
+# 📈 Bloque 6 · Gestión TIC
+
+Pendiente
+
+---
+
+# 🔐 Bloque 7 · Seguridad
+
+Pendiente
+
+---
+
+# 🧪 Bloque 8 · IMIDA
+
+Pendiente
+
+---
+
+# Próximo objetivo
+
+📌 **E004 – Administración de usuarios y grupos**
