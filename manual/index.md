@@ -48,7 +48,7 @@
 - who
 - whoami
 
-## 1.5 Permisos
+## [1.5 Permisos](01-administracion-sistemas/01.05-permisos.md)
 
 - Propietario
 - Grupo
