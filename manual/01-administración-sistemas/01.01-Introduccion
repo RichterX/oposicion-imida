@@ -1,0 +1,265 @@
+# 1.1 Introducción a GNU/Linux
+
+> **Bloque:** Administración de Sistemas  
+> **Tiempo estimado:** 45-60 minutos  
+> **Importancia:** 🔴 Muy alta  
+> **Preguntas reales relacionadas:** Linux aparece de forma recurrente en los exámenes del IMIDA (comandos, permisos, Bash, sistema de archivos, procesos).
+
+---
+
+# Objetivos
+
+Al finalizar este capítulo deberías ser capaz de:
+
+- Explicar qué es GNU/Linux.
+- Diferenciar **Kernel**, **GNU**, **Shell** y **Distribución**.
+- Comprender por qué Linux domina el mundo de los servidores.
+- Identificar las dos grandes familias de distribuciones.
+
+---
+
+# 1. ¿Por qué Linux es tan importante?
+
+La mayor parte de los servidores de organismos públicos, universidades, centros de investigación y supercomputación utilizan Linux.
+
+En el IMIDA encontrarás tecnologías como PostgreSQL, Oracle, servidores web, virtualización o servicios de red que habitualmente se ejecutan sobre Linux.
+
+**Idea clave:** no estudias Linux porque el temario lo diga; lo estudias porque es la base sobre la que funcionan muchas de las demás tecnologías del programa.
+
+---
+
+# 2. ¿Qué es GNU/Linux?
+
+Existe una confusión muy habitual.
+
+❌ **Incorrecto**
+
+> Linux es el sistema operativo.
+
+✅ **Correcto**
+
+- **Linux** = Kernel (núcleo).
+- **GNU** = herramientas del sistema.
+- **GNU/Linux** = sistema operativo completo.
+
+## Esquema
+
+```text
+Aplicaciones
+      │
+   Shell (Bash)
+      │
+Herramientas GNU
+      │
+ Kernel Linux
+      │
+   Hardware
+```
+
+🎯 **Para el examen**
+
+Si preguntan "¿Qué es Linux?", la respuesta técnicamente correcta es:
+
+> El núcleo (Kernel) del sistema operativo.
+
+---
+
+# 3. El Kernel
+
+El Kernel es el componente más importante del sistema.
+
+Sus funciones principales son:
+
+| Función | Ejemplo |
+|---------|---------|
+| Gestión de procesos | Crear y finalizar procesos |
+| Gestión de memoria | RAM |
+| Sistema de archivos | ext4, XFS... |
+| Dispositivos | USB, discos, impresoras |
+| Redes | TCP/IP |
+
+💡 Sin Kernel ningún programa podría ejecutarse.
+
+---
+
+# 4. GNU
+
+GNU proporciona la mayoría de utilidades que usamos diariamente.
+
+Ejemplos:
+
+- ls
+- cp
+- mv
+- rm
+- cat
+- chmod
+- chown
+
+Curiosamente, muchos comandos que llamamos "comandos Linux" pertenecen realmente al proyecto GNU.
+
+---
+
+# 5. La Shell
+
+La Shell es el programa que interpreta los comandos escritos por el usuario.
+
+Ejemplo:
+
+```bash
+ls
+```
+
+La Shell:
+
+1. Lee el comando.
+2. Lo interpreta.
+3. Ejecuta el programa.
+4. Devuelve el resultado.
+
+La Shell más utilizada es **Bash (Bourne Again SHell)**.
+
+Otras:
+
+- zsh
+- sh
+- fish
+
+🎯 Para esta oposición, Bash es la relevante.
+
+---
+
+# 6. Distribuciones Linux
+
+Una distribución reúne:
+
+- Kernel Linux
+- Herramientas GNU
+- Gestor de paquetes
+- Instalador
+- Aplicaciones
+- Configuración
+
+Ejemplos:
+
+- Debian
+- Ubuntu
+- Fedora
+- Red Hat Enterprise Linux
+- Rocky Linux
+- AlmaLinux
+
+## Familias importantes
+
+| Familia | Gestor de paquetes |
+|----------|-------------------|
+| Debian / Ubuntu | apt |
+| Red Hat / Rocky / Alma | dnf (antes yum) |
+
+No es necesario memorizar decenas de distribuciones. Basta con conocer estas dos familias.
+
+---
+
+# Lo mínimo que debes recordar 🎯
+
+- Linux = Kernel.
+- GNU aporta las herramientas del sistema.
+- Bash es una Shell.
+- Una distribución = Kernel + GNU + aplicaciones.
+- Debian usa **apt**.
+- Red Hat usa **dnf**.
+
+---
+
+# Errores frecuentes ⚠️
+
+❌ Ubuntu = Linux.
+
+✔ Ubuntu es una distribución Linux.
+
+---
+
+❌ Bash = Linux.
+
+✔ Bash es una Shell.
+
+---
+
+❌ Linux = sistema operativo completo.
+
+✔ Linux es el Kernel.
+
+---
+
+# Tarjetas 🧠
+
+**P:** ¿Qué es Linux realmente?  
+**R:** El Kernel.
+
+**P:** ¿Qué proyecto desarrolla herramientas como `ls` y `chmod`?  
+**R:** GNU.
+
+**P:** ¿Qué es Bash?  
+**R:** La Shell más utilizada en GNU/Linux.
+
+**P:** ¿Qué hace una Shell?  
+**R:** Interpreta y ejecuta comandos.
+
+**P:** ¿Qué gestor utiliza Debian?  
+**R:** apt.
+
+**P:** ¿Qué gestor utiliza Red Hat?  
+**R:** dnf.
+
+---
+
+# Mini test
+
+1. ¿Qué componente comunica hardware y software?
+
+a) Bash
+
+b) GNU
+
+c) Kernel
+
+d) Ubuntu
+
+> ✅ Respuesta: c)
+
+2. Ubuntu es...
+
+a) Un Kernel
+
+b) Una distribución Linux
+
+c) Una Shell
+
+d) Un gestor de paquetes
+
+> ✅ Respuesta: b)
+
+3. Bash es...
+
+a) Un Kernel
+
+b) Un gestor de paquetes
+
+c) Una Shell
+
+d) Una distribución
+
+> ✅ Respuesta: c)
+
+---
+
+# Resumen
+
+Si solo pudieras memorizar seis ideas de este capítulo serían:
+
+1. Linux es el Kernel.
+2. GNU aporta las herramientas del sistema.
+3. Bash es una Shell.
+4. Las distribuciones forman el sistema operativo completo.
+5. Debian y Red Hat son las dos familias principales.
+6. Linux es el sistema dominante en servidores.
