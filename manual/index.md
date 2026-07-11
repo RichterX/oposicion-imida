@@ -15,7 +15,7 @@
 
 # 🖥️ Bloque 1 · Administración de Sistemas
 
-## 1.1 Introducción a GNU/Linux (/01-administración-sistemas/01.01%20-%20Introducción%20a%20GNU-Linux.md)
+## [1.1 Introducción a GNU/Linux](/01-administración-sistemas/01.01%20-%20Introducción%20a%20GNU-Linux.md)
 
 - ¿Qué es GNU/Linux?
 - Kernel
