@@ -70,11 +70,20 @@ Subidos los archivos originales en Markdown para conservar caracteres especiales
 
 ---
 
+# v0.7.0
+
+## Bloque 1
+
+Añadido:
+
+- 1.4 Administración de usuarios y grupos
+- Eliminados todos los acentos, mayúsculas y demás para conservar compatibilidad y evitar futuros problemas.
+
 # Próxima versión
 
-## v0.7.0
+## v0.8.0
 
 Previsto:
 
-- 1.4 Administración de usuarios y grupos
-- Primer capítulo práctico del manual.
+- 1.5 Administración de usuarios y grupos
+
