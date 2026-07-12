@@ -58,7 +58,7 @@
 - chgrp
 - umask
 
-## 1.6 Procesos
+## [1.6 Procesos](01-administracion-sistemas/01.06-procesos.md)
 
 - PID
 - PPID
@@ -69,7 +69,7 @@
 - nice
 - jobs
 
-## 1.7 Bash
+## [1.7 Bash](01-administracion-sistemas/01.07-bash.md)
 
 - Variables
 - Redirecciones
@@ -78,21 +78,21 @@
 - Scripts
 - Variables de entorno
 
-## 1.8 Servicios (systemd)
+## [1.8 Servicios (systemd)](01-administracion-sistemas/01.08-servicios.md)
 
 - systemctl
 - journalctl
 - Servicios
 - Targets
 
-## 1.9 Gestión de paquetes
+## [1.9 Gestión de paquetes](01-administracion-sistemas/01.09-gestion-paquetes.md)
 
 - apt
 - dnf
 - Repositorios
 - Actualizaciones
 
-## 1.10 Administración básica
+## [1.10 Administración básica](01-administracion-sistemas/01.10-administracion-basica.md)
 
 - SSH
 - SCP
@@ -272,10 +272,8 @@
 
 - Tarjetas de estudio
 - Mini tests
-- Banco de preguntas
+- [Misiones](misiones/readme.md)
 - Simulacros
-- Glosario
-- Referencias
 
 ---
 

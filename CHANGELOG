@@ -80,6 +80,20 @@ Añadido:
 - 1.5 Permisos
 - Eliminados todos los acentos, mayúsculas y demás para conservar compatibilidad y evitar futuros problemas.
 
+# v0.8.0
+
+## Bloque 1
+
+Añadido:
+
+- 1.6 Permisos
+- 1.7 Bash
+- 1.8 Servicios del sistema
+- 1.9 Gestión de paquetes
+- 1.10 Administración básica
+- Añadida misión para todo el bloque de Linux
+- Añadida nueva estructura de carpetas con misiones, tarjetas, tests y simulacros
+
 # Próxima versión
 
 ## v0.8.0
