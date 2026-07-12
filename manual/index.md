@@ -30,14 +30,23 @@
 - Directorios principales
 - FHS (Filesystem Hierarchy Standard)
 
-## [1.3 Usuarios y grupos](01-administracion-sistemas/01.03-usuarios-y-grupos.md)
+## [1.3 Navegación y gestión básica de archivos](01-administracion-sistemas/01.03-navegacion-gestion-archivos.md)
+
+- Navegar por el sistema de archivos.
+- Crear directorios y archivos.
+- Copiar y mover información.
+- Eliminar archivos de forma segura.
+- Visualizar el contenido de archivos.
+- Buscar archivos dentro del sistema.
+
+## [1.4 Usuarios y grupos](01-administracion-sistemas/01.04-usuarios-y-grupos.md)
 
 - Usuarios
 - UID
 - Grupos
 - Usuario root
 
-## [1.4 Administración de usuarios y grupos](01-administracion-sistemas/01.04-administracion-usuarios-y-grupos.md)
+## [1.5 Administración de usuarios y grupos](01-administracion-sistemas/01.05-administracion-usuarios-y-grupos.md)
 
 - useradd
 - usermod
@@ -48,7 +57,7 @@
 - who
 - whoami
 
-## [1.5 Permisos](01-administracion-sistemas/01.05-permisos.md)
+## [1.6 Permisos](01-administracion-sistemas/01.06-permisos.md)
 
 - Propietario
 - Grupo
@@ -58,7 +67,7 @@
 - chgrp
 - umask
 
-## [1.6 Procesos](01-administracion-sistemas/01.06-procesos.md)
+## [1.7 Procesos](01-administracion-sistemas/01.07-procesos.md)
 
 - PID
 - PPID
@@ -69,7 +78,7 @@
 - nice
 - jobs
 
-## [1.7 Bash](01-administracion-sistemas/01.07-bash.md)
+## [1.8 Bash](01-administracion-sistemas/01.08-bash.md)
 
 - Variables
 - Redirecciones
@@ -78,21 +87,21 @@
 - Scripts
 - Variables de entorno
 
-## [1.8 Servicios (systemd)](01-administracion-sistemas/01.08-servicios.md)
+## [1.9 Servicios (systemd)](01-administracion-sistemas/01.09-servicios.md)
 
 - systemctl
 - journalctl
 - Servicios
 - Targets
 
-## [1.9 Gestión de paquetes](01-administracion-sistemas/01.09-gestion-paquetes.md)
+## [1.10 Gestión de paquetes](01-administracion-sistemas/01.10-gestion-paquetes.md)
 
 - apt
 - dnf
 - Repositorios
 - Actualizaciones
 
-## [1.10 Administración básica](01-administracion-sistemas/01.10-administracion-basica.md)
+## [1.11 Administración básica](01-administracion-sistemas/01.11-administracion-basica.md)
 
 - SSH
 - SCP
@@ -101,13 +110,13 @@
 - Logs
 - Copias de seguridad
 
-## 1.11 Windows Server
+## 1.12 Windows Server
 
 - Roles
 - Características
 - Servicios
 
-## 1.12 Active Directory
+## 1.13 Active Directory
 
 - Dominio
 - OU
