@@ -96,11 +96,17 @@ Añadido:
 - Añadida misión para todo el bloque de Linux
 - Añadida nueva estructura de carpetas con misiones, tarjetas, tests y simulacros
 
-# Próxima versión
+# v0.9.0
 
-## v0.8.0
+## Bloque 1
 
-Previsto:
+Añadido:
 
-- 1.6 Procesos
+- Parte A del bloque 1 (Linux) terminada.
+- Bloque 1 dividido en 3 partes para Linux, Windows Server y Active Directory
+- Añadidos los índices de los capítulos de Windows Server y Active Directory
+- Añadido capítulo 1.12 Introducción a Windows Server.
+- Añadido capítulo 1.13 Arquitectura de Windows.
+- Añadido capítulo 1.14 NTFS
+- Añadido capítulo 1.15 Usuarios y Grupos
 

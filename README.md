@@ -99,15 +99,10 @@ oposicion-imida/
 │   ├── bloque-02/
 │   └── ...
 │
-├── simulacros/
-│   ├── bloque-01/
-│   ├── bloque-02/
-│   └── final/
-│
-└── recursos/
-    ├── imagenes/
-    ├── esquemas/
-    └── referencias/
+└── simulacros/
+    ├── bloque-01/
+    ├── bloque-02/
+    └── final/
 ```
 
 ---
@@ -124,19 +119,37 @@ oposicion-imida/
 ---
 
 ## Bloque 1 · Administración de Sistemas
+### Parte A - Administración de Linux
 
 - 1.1 Introducción a GNU/Linux
 - 1.2 Sistema de archivos
-- 1.3 Usuarios y grupos
-- 1.4 Administración de usuarios y grupos
-- 1.5 Permisos
-- 1.6 Procesos
-- 1.7 Bash
-- 1.8 Servicios (systemd)
-- 1.9 Gestión de paquetes
-- 1.10 Administración básica
-- 1.11 Windows Server
-- 1.12 Active Directory
+- 1.3 Navegación y gestión básica de archivos
+- 1.4 Usuarios y grupos
+- 1.5 Administración de usuarios y grupos
+- 1.6 Permisos
+- 1.7 Procesos
+- 1.8 Bash
+- 1.9 Servicios (systemd)
+- 1.10 Gestión de paquetes
+- 1.11 Administración básica
+
+### Parte B - Administración de Windows Server
+- 1.12 Introducción a Windows Server
+- 1.13 Arquitectura de Windows
+- 1.14 NTFS
+- 1.15 Usuarios y Grupos
+- 1.16 Permisos
+- 1.17 Procesos y Servicios
+- 1.18 Roles, características y administraciónd el servidor
+- 1.19 Administración y mantenimiento
+
+### Parte C - Active Directory
+- 1.20 Active Directory
+- 1.21 Objetos del dominio
+- 1.22 OU
+- 1.23 GPO
+- 1.24 Administración de objetos
+- 1.25 Administración de equipos
 
 ---
 

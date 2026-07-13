@@ -14,8 +14,9 @@
 ---
 
 # 🖥️ Bloque 1 · Administración de Sistemas
+### Parte A (Linux)
 
-## [1.1 Introducción a GNU/Linux](01-administracion-sistemas/01.01-introduccion-gnu-linux.md)
+## [1.1 Introducción a GNU/Linux](01-administracion-sistemas/parte-a-linux/01.01-introduccion-gnu-linux.md)
 
 - ¿Qué es GNU/Linux?
 - Kernel
@@ -23,14 +24,14 @@
 - Shell
 - Distribuciones Linux
 
-## [1.2 Sistema de archivos](01-administracion-sistemas/01.02-sistema-archivos.md)
+## [1.2 Sistema de archivos](01-administracion-sistemas/parte-a-linux/01.02-sistema-archivos.md)
 
 - Directorio raíz
 - Jerarquía del sistema
 - Directorios principales
 - FHS (Filesystem Hierarchy Standard)
 
-## [1.3 Navegación y gestión básica de archivos](01-administracion-sistemas/01.03-navegacion-gestion-archivos.md)
+## [1.3 Navegación y gestión básica de archivos](01-administracion-sistemas/parte-a-linux/01.03-navegacion-gestion-archivos.md)
 
 - Navegar por el sistema de archivos.
 - Crear directorios y archivos.
@@ -39,14 +40,14 @@
 - Visualizar el contenido de archivos.
 - Buscar archivos dentro del sistema.
 
-## [1.4 Usuarios y grupos](01-administracion-sistemas/01.04-usuarios-y-grupos.md)
+## [1.4 Usuarios y grupos](01-administracion-sistemas/parte-a-linux/01.04-usuarios-y-grupos.md)
 
 - Usuarios
 - UID
 - Grupos
 - Usuario root
 
-## [1.5 Administración de usuarios y grupos](01-administracion-sistemas/01.05-administracion-usuarios-y-grupos.md)
+## [1.5 Administración de usuarios y grupos](01-administracion-sistemas/parte-a-linux/01.05-administracion-usuarios-y-grupos.md)
 
 - useradd
 - usermod
@@ -57,7 +58,7 @@
 - who
 - whoami
 
-## [1.6 Permisos](01-administracion-sistemas/01.06-permisos.md)
+## [1.6 Permisos](01-administracion-sistemas/parte-a-linux/01.06-permisos.md)
 
 - Propietario
 - Grupo
@@ -67,7 +68,7 @@
 - chgrp
 - umask
 
-## [1.7 Procesos](01-administracion-sistemas/01.07-procesos.md)
+## [1.7 Procesos](01-administracion-sistemas/parte-a-linux/01.07-procesos.md)
 
 - PID
 - PPID
@@ -78,7 +79,7 @@
 - nice
 - jobs
 
-## [1.8 Bash](01-administracion-sistemas/01.08-bash.md)
+## [1.8 Bash](01-administracion-sistemas/parte-a-linux/01.08-bash.md)
 
 - Variables
 - Redirecciones
@@ -87,21 +88,21 @@
 - Scripts
 - Variables de entorno
 
-## [1.9 Servicios (systemd)](01-administracion-sistemas/01.09-servicios.md)
+## [1.9 Servicios (systemd)](01-administracion-sistemas/parte-a-linux/01.09-servicios.md)
 
 - systemctl
 - journalctl
 - Servicios
 - Targets
 
-## [1.10 Gestión de paquetes](01-administracion-sistemas/01.10-gestion-paquetes.md)
+## [1.10 Gestión de paquetes](01-administracion-sistemas/parte-a-linux/01.10-gestion-paquetes.md)
 
 - apt
 - dnf
 - Repositorios
 - Actualizaciones
 
-## [1.11 Administración básica](01-administracion-sistemas/01.11-administracion-basica.md)
+## [1.11 Administración básica](01-administracion-sistemas/parte-a-linux/01.11-administracion-basica.md)
 
 - SSH
 - SCP
@@ -110,19 +111,37 @@
 - Logs
 - Copias de seguridad
 
-## 1.12 Windows Server
+### Parte B (Windows Server)
 
-- Roles
-- Características
-- Servicios
+## [1.12 Introducción a Windows Server](01-administracion-sistemas/parte-b-windows-server/Parte B01.12-introduccion-windows-server.md)
 
-## 1.13 Active Directory
+## [1.13 Arquitectura de Windows](01-administracion-sistemas/parte-b-windows-server/01.13-arquitectura-windows.md)
 
-- Dominio
-- OU
-- Usuarios
-- Equipos
-- GPO
+## [1.14 NTFS](01-administracion-sistemas/parte-b-windows-server/01.14-ntfs.md)
+
+## [1.15 Usuarios y Grupos](01-administracion-sistemas/parte-b-windows-server/01.15-usuarios-grupos.md)
+
+## 1.16 Permisos
+
+## 1.17 Procesos y Servicios
+
+## 1.18 Roles, características y administración del servidor
+
+## 1.19 Administración y mantenimiento
+
+### Parte C (Active Directory)
+
+## 1.20 Introducción a Active Directory
+
+## 1.21 Objetos del dominio
+
+## 1.22 OU
+
+## 1.23 GPO
+
+## 1.24 Administración de objetos
+
+## 1.25 Administración de equipos
 
 ---
 

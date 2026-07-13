@@ -26,19 +26,36 @@ Este documento refleja el estado actual del proyecto y el progreso de cada bloqu
 ---
 
 # 🐧 Bloque 1 · Administración de Sistemas
-
+## Parte A - Linux
 - [x] 1.1 Introducción a GNU/Linux
 - [x] 1.2 Sistema de archivos
-- [x] 1.3 Usuarios y grupos
-- [x] 1.4 Administración de usuarios y grupos
-- [x] 1.5 Permisos
-- [x] 1.6 Procesos
-- [x] 1.7 Bash
-- [ ] 1.8 Servicios (systemd)
-- [ ] 1.9 Gestión de paquetes
-- [ ] 1.10 Administración básica
-- [ ] 1.11 Windows Server
-- [ ] 1.12 Active Directory
+- [x] 1.3 Navegación y gestión básica de archivos
+- [x] 1.4 Usuarios y grupos
+- [x] 1.5 Administración de usuarios y grupos
+- [x] 1.6 Permisos
+- [x] 1.7 Procesos
+- [x] 1.8 Bash
+- [x] 1.9 Servicios (systemd)
+- [x] 1.10 Gestión de paquetes
+- [x] 1.11 Administración básica
+
+## Parte B - Windows Server
+- [x] 1.12 Introducción a Windows Server
+- [x] 1.13 Arquitectura de Windows
+- [x] 1.14 NTFS
+- [x] 1.15 Usuarios y Grupos
+- [ ] 1.16 Permisos
+- [ ] 1.17 Procesos y Servicios
+- [ ] 1.18 Roles, características y administración del servidor
+- [ ] 1.19 Administración y mantenimiento
+
+## Parte C - Active Directory
+- [ ] 1.20 Active Directory
+- [ ] 1.21 Objetos del dominio
+- [ ] 1.22 OU
+- [ ] 1.23 GPO
+- [ ] 1.24 Administración de objetos
+- [ ] 1.25 Administración de equipos
 
 ---
 
