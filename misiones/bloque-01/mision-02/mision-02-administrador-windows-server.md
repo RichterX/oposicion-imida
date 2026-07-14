@@ -1,12 +1,12 @@
-# Misión 02 · Administrador de Windows Server
+# 🧪 Misión 02 · Administrador de Windows Server
 
-> **Bloque:** Administración de Sistemas
+> **Bloque:** 01 · Administración de Sistemas
 >
-> **Parte:** Windows Server
+> **Misión:** 02
 >
-> **Nivel:** ⭐⭐⭐⭐☆
+> **Dificultad:** 🟢 Básico → 🔴 Avanzado
 >
-> **Tiempo recomendado:** 90-120 minutos
+> **Tiempo estimado:** 90-120 minutos
 >
 > **Modo:** Sin apuntes (recomendado)
 
