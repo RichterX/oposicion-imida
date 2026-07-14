@@ -44,10 +44,10 @@ Este documento refleja el estado actual del proyecto y el progreso de cada bloqu
 - [x] 1.13 Arquitectura de Windows
 - [x] 1.14 NTFS
 - [x] 1.15 Usuarios y Grupos
-- [ ] 1.16 Permisos
-- [ ] 1.17 Procesos y Servicios
-- [ ] 1.18 Roles, características y administración del servidor
-- [ ] 1.19 Administración y mantenimiento
+- [x] 1.16 Permisos
+- [x] 1.17 Procesos y Servicios
+- [x] 1.18 Roles, características y administración del servidor
+- [x] 1.19 Administración y mantenimiento
 
 ## Parte C - Active Directory
 - [ ] 1.20 Active Directory
@@ -61,11 +61,12 @@ Este documento refleja el estado actual del proyecto y el progreso de cada bloqu
 
 ## Objetivos del bloque
 
-- [ ] Tarjetas completas
-- [ ] Banco de preguntas
-- [ ] Mini tests
+- [x] Tarjetas completas
+- [x] Banco de preguntas
+- [x] Mini tests
 - [ ] Simulacro del bloque
-- [ ] Revisión del bloque
+- [ ] Misiones del bloque
+- [x] Revisión del bloque
 
 ---
 

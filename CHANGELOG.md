@@ -110,3 +110,15 @@ Añadido:
 - Añadido capítulo 1.14 NTFS
 - Añadido capítulo 1.15 Usuarios y Grupos
 
+# v0.9.1
+
+## Bloque 1
+
+Añadido:
+
+- Añadido capítulo 1.16 Permisos
+- Añadido capítulo 1.17 Procesos y Servicios
+- Añadido capítulo 1.18 Roles, características y administraciónd el servidor
+- Añadido capítulo 1.19 Administración y mantenimiento
+- Añadidas soluciones de la misión 01 de Linux
+

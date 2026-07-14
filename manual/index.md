@@ -121,13 +121,13 @@
 
 ## [1.15 Usuarios y Grupos](01-administracion-sistemas/parte-b-windows-server/01.15-usuarios-grupos.md)
 
-## 1.16 Permisos
+## [1.16 Permisos](01-administracion-sistemas/parte-b-windows-server/01.16-permisos.md)
 
-## 1.17 Procesos y Servicios
+## [1.17 Procesos y Servicios](01-administracion-sistemas/parte-b-windows-server/01.17-procesos-y-servicios.md)
 
-## 1.18 Roles, características y administración del servidor
+## [1.18 Roles, características y administración del servidor](01-administracion-sistemas/parte-b-windows-server/01.18-roles-y-caracteristicas.md)
 
-## 1.19 Administración y mantenimiento
+## [1.19 Administración y mantenimiento](01-administracion-sistemas/parte-b-windows-server/01.19-administracion-y-mantenimiento.md)
 
 ### Parte C (Active Directory)
 
@@ -307,6 +307,6 @@
 
 # 🎯 Objetivo final
 
-Completar todos los bloques del temario, realizar un simulacro por bloque y un simulacro final antes de la segunda prueba de la oposición.
+Completar todos los bloques del temario, hacer las misiones, realizar un simulacro por bloque y un simulacro final antes de la segunda prueba de la oposición.
 
 > **Principio del proyecto:** *Comprender antes que memorizar.*
