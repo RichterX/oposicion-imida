@@ -413,8 +413,8 @@ Confianza al terminar la misión (1-5):
 - ☐ 5
 
 # Soluciones
-- [Nivel 1](mision-01/solucion-nivel-1.md)
-- [Nivel 2](mision-01/solucion-nivel-2.md)
-- [Nivel 3](mision-01/solucion-nivel-3.md)
-- [Nivel 4](mision-01/solucion-nivel-4.md)
-- [Nivel 5](mision-01/solucion-nivel-5.md)
+- [Nivel 1](solucion-nivel-2.md)
+- [Nivel 2](solucion-nivel-2.md)
+- [Nivel 3](solucion-nivel-3.md)
+- [Nivel 4](solucion-nivel-4.md)
+- [Nivel 5](solucion-nivel-5.md)
