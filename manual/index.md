@@ -113,7 +113,7 @@
 
 ### Parte B (Windows Server)
 
-## [1.12 Introducción a Windows Server](01-administracion-sistemas/parte-b-windows-server/Parte B01.12-introduccion-windows-server.md)
+## [1.12 Introducción a Windows Server](01-administracion-sistemas/parte-b-windows-server/01.12-introduccion-windows-server.md)
 
 ## [1.13 Arquitectura de Windows](01-administracion-sistemas/parte-b-windows-server/01.13-arquitectura-windows.md)
 
