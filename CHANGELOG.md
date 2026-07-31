@@ -129,7 +129,7 @@ Añadido:
 Añadido:
 
 - Añadidas soluciones de la misión 2 de Windows Server
-- Cambios en el index.md para añadir un capítulo nuevo de Active Directory (instalación y promoción)
+- Cambios en el index.md para añadir un capítulo nuevo de Active Directory (instalación y promoción) y algunos cambios en el bloque 2
 - Añadido primer capítulo (01.20) de Active Directory
 - Añadido capítulo 01.21 Instalación de Active Directory y promoción a Controlador de Dominio
 - Añadido capítulo 01.22 Objetos de Active Directory

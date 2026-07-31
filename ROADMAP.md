@@ -73,7 +73,28 @@ Este documento refleja el estado actual del proyecto y el progreso de cada bloqu
 
 # 🌐 Bloque 2 · Redes
 
-Pendiente
+- [ ] 2.1 Introducción a redes
+- [ ] 2.2 Direccionamiento IP
+- [ ] 2.3 Ethernet
+- [ ] 2.4 DNS
+- [ ] 2.5 DHCP
+- [ ] 2.6 VPN
+- [ ] 2.7 VLAN
+- [ ] 2.8 Correo electrónico
+- [ ] 2.9 Firewalls
+- [ ] 2.10 Herramientas de diagnóstico de red
+- [ ] 2.11 Seguridad básica en redes
+
+---
+
+## Objetivos del bloque
+
+- [ ] Tarjetas completas
+- [ ] Banco de preguntas
+- [ ] Mini tests
+- [ ] Simulacro del bloque
+- [ ] Misiones del bloque
+- [ ] Revisión del bloque
 
 ---
 

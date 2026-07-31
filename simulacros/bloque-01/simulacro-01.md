@@ -61,7 +61,7 @@ d) Sustituye completamente al sistema operativo Windows.
 
 ### 4.
 
-¿Qué comando permite visualizar el espacio ocupado por los sistemas de archivos montados?
+¿Qué comando permite visualizar el espacio ocupado por los sistemas de archivos montados en un sistema GNU/Linux?
 
 a) free -h
 

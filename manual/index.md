@@ -253,58 +253,108 @@
 
 ---
 
+[Tarjetas de estudio](/tarjetas/index-tarjetas-bloque-01.md)
+[Simulacro de examen]
+
+---
+
 # 🌐 Bloque 2 · Redes
 
 ## 2.1 Introducción a redes
 
-- Modelo TCP/IP
+- Conceptos básicos
+- LAN, MAN, WAN
+- Topologías
 - Modelo OSI
+- Modelo TCP/IP
 - Encapsulación
+- Protocolos
 
 ## 2.2 Direccionamiento IP
 
 - IPv4
 - IPv6
+- Máscaras de red
 - CIDR
 - Subredes
+- Direcciones públicas y privadas
+- Dirección de red
+- Broadcast
+- Gateway
 
 ## 2.3 Ethernet
 
-- MAC
+- IEEE 802.3
+- Direcciones MAC
+- Tramas Ethernet
 - Switches
 - ARP
 
 ## 2.4 DNS
 
+- Funcionamiento
 - Resolución de nombres
 - Registros DNS
+- DNS recursivo
+- DNS autoritativo
+- Caché DNS
 
 ## 2.5 DHCP
 
 - Funcionamiento
-- Concesiones
+- Proceso DORA
+- Concesiones (Leases)
+- Reservas
+- Exclusiones
+- Relay DHCP
 
 ## 2.6 VPN
 
 - Conceptos
-- Tipos
+- VPN Site-to-Site
+- VPN Cliente-Servidor
+- IPsec
+- SSL VPN
 
 ## 2.7 VLAN
 
-- Etiquetado
+- Conceptos
+- VLAN de acceso
+- VLAN nativa
+- VLAN de gestión
 - Troncales
+- IEEE 802.1Q
+- Inter-VLAN Routing
 
 ## 2.8 Correo electrónico
 
 - SMTP
-- IMAP
 - POP3
+- IMAP
+- Flujo del correo
+- Registros MX
 
 ## 2.9 Firewalls
 
-- FortiGate
+- Concepto
+- Filtrado de paquetes
+- Stateful Inspection
 - ACL
 - NAT
+- PAT
+- DMZ
+- FortiGate (administración básica)
+
+## 2.10 Herramientas de diagnóstico de red
+
+## 2.11 Seguridad básica en redes
+
+- Segmentación
+- Principio de mínimo privilegio
+- IDS
+- IPS
+- Proxy
+- Bastionado
 
 ---
 
