@@ -113,21 +113,78 @@
 
 ### Parte B (Windows Server)
 
-## [1.12 Introducción a Windows Server](01-administracion-sistemas/parte-b-windows-server/Parte B01.12-introduccion-windows-server.md)
+## [1.12 Introducción a Windows Server](01-administracion-sistemas/parte-b-windows-server/01.12-introduccion-windows-server.md)
+
+- Qué es Windows Server
+- Windows cliente vs Windows Server
+- Versiones (2016, 2019, 2022)
+- LTSC
+- Desktop Experience y Server Core
+- Server Manager
 
 ## [1.13 Arquitectura de Windows](01-administracion-sistemas/parte-b-windows-server/01.13-arquitectura-windows.md)
 
+- User Mode y Kernel Mode
+- Windows Executive
+- Kernel y HAL
+- Servicios y procesos
+- Registro de Windows
+- Capas de arquitectura
+
 ## [1.14 NTFS](01-administracion-sistemas/parte-b-windows-server/01.14-ntfs.md)
+
+- NTFS y FAT32
+- ACL
+- Herencia de permisos
+- Permisos efectivos
+- Permisos NTFS y compartidos
+- EFS, compresión y cuotas
 
 ## [1.15 Usuarios y Grupos](01-administracion-sistemas/parte-b-windows-server/01.15-usuarios-grupos.md)
 
+- Usuarios locales
+- Cuenta Administrator
+- Perfiles de usuario
+- Grupos locales
+- lusrmgr.msc y compmgmt.msc
+- New-LocalUser y Add-LocalGroupMember
+
 ## [1.16 Permisos](01-administracion-sistemas/parte-b-windows-server/01.16-permisos.md)
+
+- ACL
+- Permisos explícitos y heredados
+- Permisos efectivos
+- Permitir y Denegar
+- Propietario del recurso
+- Principio de mínimo privilegio
 
 ## [1.17 Procesos y Servicios](01-administracion-sistemas/parte-b-windows-server/01.17-procesos-y-servicios.md)
 
+- Proceso vs servicio
+- PID y recursos
+- Administrador de tareas
+- services.msc
+- Service Control Manager (SCM)
+- Get-Process y Get-Service
+
 ## [1.18 Roles, características y administración del servidor](01-administracion-sistemas/parte-b-windows-server/01.18-roles-y-caracteristicas.md)
 
+- Roles y características
+- Server Manager
+- Add Roles and Features
+- Get-WindowsFeature
+- Install-WindowsFeature
+- Roles: AD DS, DNS, DHCP, IIS, Hyper-V
+- [1.18.01 Roles habituales en Windows Server](01-administracion-sistemas/parte-b-windows-server/01.18.01-roles-habituales.md)
+
 ## [1.19 Administración y mantenimiento](01-administracion-sistemas/parte-b-windows-server/01.19-administracion-y-mantenimiento.md)
+
+- Mantenimiento preventivo
+- Event Viewer
+- Windows Update
+- Windows Server Backup
+- RDP y PowerShell Remoting
+- Task Scheduler y monitorización
 
 ### Parte C (Active Directory)
 
