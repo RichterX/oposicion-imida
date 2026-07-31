@@ -253,8 +253,8 @@
 
 ---
 
-[## Tarjetas de estudio](/tarjetas/index-tarjetas-bloque-01.md)
-[## Simulacro de examen](/simulacros/bloque-01/simulacro-01.md)
+## [Tarjetas de estudio](/tarjetas/index-tarjetas-bloque-01.md)
+## [Simulacro de examen](/simulacros/bloque-01/simulacro-01.md)
 
 ---
 

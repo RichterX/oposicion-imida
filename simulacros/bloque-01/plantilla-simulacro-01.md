@@ -42,6 +42,6 @@
 ---
 
 # Correcciones y explicación por pregunta
-[## Corrección de preguntas (01-25)](correccion-simulacro-parte-1.md)
-[## Corrección de preguntas (26-55)](correccion-simulacro-parte-2.md)
-[## Corrección de preguntas (56-70)](correccion-simulacro-parte-3.md)
+## [Corrección de preguntas (01-25)](correccion-simulacro-parte-1.md)
+## [Corrección de preguntas (26-55)](correccion-simulacro-parte-2.md)
+## [Corrección de preguntas (56-70)](correccion-simulacro-parte-3.md)

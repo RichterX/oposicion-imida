@@ -997,4 +997,4 @@ d) Elimina la necesidad de utilizar DNS.
 
 ---
 
-[### Accede desde aquí a la plantilla de respuestas](plantilla-simulacro-01.md)
+### [Accede desde aquí a la plantilla de respuestas](plantilla-simulacro-01.md)
