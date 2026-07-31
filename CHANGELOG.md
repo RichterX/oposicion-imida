@@ -122,3 +122,24 @@ Añadido:
 - Añadido capítulo 1.19 Administración y mantenimiento
 - Añadidas soluciones de la misión 01 de Linux
 
+# v0.9.2
+
+## Bloque 1
+
+Añadido:
+
+- Añadidas soluciones de la misión 2 de Windows Server
+- Cambios en el index.md para añadir un capítulo nuevo de Active Directory (instalación y promoción)
+- Añadido primer capítulo (01.20) de Active Directory
+- Añadido capítulo 01.21 Instalación de Active Directory y promoción a Controlador de Dominio
+- Añadido capítulo 01.22 Objetos de Active Directory
+- Añadido capítulo 01.23 Unidades Organizativas (OU)
+- Añadido capítulo 01.24 Administración de objetos
+- Añadido capítulo 01.25 Directivas de Grupo (GPO)
+- Añadido capítulo 01.26 Administración de equipos
+- Añadida misión 3 de Active Directory
+- Añadidas soluciones de la misión 3 de Active Directory
+- Añadido simulacro 1 de examen para todo el bloque 1
+- Añadida plantilla de soluciones para el simulacro 1
+- Añadida corrección de soluciones para el simulacro 1
+

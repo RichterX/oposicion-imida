@@ -146,10 +146,11 @@ oposicion-imida/
 ### Parte C - Active Directory
 - 1.20 Active Directory
 - 1.21 Objetos del dominio
-- 1.22 OU
-- 1.23 GPO
+- 1.22 Instalación de AD DS y promoción a controlador de dominio
+- 1.23 Unidades Organizativas (OU)
 - 1.24 Administración de objetos
-- 1.25 Administración de equipos
+- 1.25 Directivas de grupo (GPO)
+- 1.26 Administración de equipos
 
 ---
 

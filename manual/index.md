@@ -188,17 +188,68 @@
 
 ### Parte C (Active Directory)
 
-## 1.20 Introducción a Active Directory
+## [1.20 Introducción a Active Directory](01-administracion-sistemas/parte-c-active-directory/01.20-introduccion-active-directory.md)
 
-## 1.21 Objetos del dominio
+- Active Directory
+- Dominio vs Grupo de trabajo
+- Controlador de Dominio
+- Autenticación y autorización
+- Administración centralizada
+- Componentes de AD
 
-## 1.22 OU
+## [1.21 Instalación de AD DS y promoción a Controlador de Dominio](01-administracion-sistemas/parte-c-active-directory/01.21-instalacion-active-directory.md)
 
-## 1.23 GPO
+- Rol AD DS
+- Instalación vs promoción
+- Controlador de Dominio (DC)
+- Bosque y dominio raíz
+- Base de datos NTDS
+- Primer dominio de la organización
 
-## 1.24 Administración de objetos
+## [1.22 Objetos de Active Directory](01-administracion-sistemas/parte-c-active-directory/01.22-objetos-active-directory.md)
 
-## 1.25 Administración de equipos
+- Objeto y atributo
+- Usuarios, grupos y equipos
+- Contactos e impresoras
+- Objetos lógicos y físicos
+- Identidad de recursos
+- Representación en el dominio
+
+## [1.23 Unidades Organizativas (OU)](01-administracion-sistemas/parte-c-active-directory/01.23-unidades-organizativas.md)
+
+- OU (Organizational Unit)
+- Jerarquía padre/hija
+- Contenedores lógicos
+- OU vs grupos
+- Delegación administrativa
+- Base para aplicar GPO
+
+## [1.24 Administración de objetos](01-administracion-sistemas/parte-c-active-directory/01.24-administracion-objetos.md)
+
+- Crear y modificar usuarios
+- Crear grupos y miembros
+- Administrar equipos
+- Mover objetos entre OU
+- Deshabilitar y eliminar cuentas
+- Atributos y papelera de AD
+
+## [1.25 Directivas de Grupo (GPO)](01-administracion-sistemas/parte-c-active-directory/01.25-directivas-de-grupo-gpo.md)
+
+- GPO (Group Policy Object)
+- Configuración centralizada
+- GPO local vs dominio
+- Vinculación a OU
+- Herencia de directivas
+- Políticas de seguridad
+
+## [1.26 Administración de equipos](01-administracion-sistemas/parte-c-active-directory/01.26-administracion-equipos.md)
+
+- Unión al dominio
+- Objeto equipo
+- Cuenta de equipo
+- Relación OU y GPO
+- Movimiento y cambio de nombre
+- Gestión de equipos del dominio
 
 ---
 

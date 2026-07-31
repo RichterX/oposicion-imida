@@ -12,7 +12,7 @@ Este documento refleja el estado actual del proyecto y el progreso de cada bloqu
 - [x] README
 - [x] ROADMAP
 - [x] CHANGELOG
-- [ ] Bloque 1
+- [x] Bloque 1
 - [ ] Bloque 2
 - [ ] Bloque 3
 - [ ] Bloque 4
@@ -50,12 +50,13 @@ Este documento refleja el estado actual del proyecto y el progreso de cada bloqu
 - [x] 1.19 Administración y mantenimiento
 
 ## Parte C - Active Directory
-- [ ] 1.20 Active Directory
-- [ ] 1.21 Objetos del dominio
-- [ ] 1.22 OU
-- [ ] 1.23 GPO
-- [ ] 1.24 Administración de objetos
-- [ ] 1.25 Administración de equipos
+- [x] 1.20 Active Directory
+- [x] 1.21 Instalación y promoción AD DS
+- [x] 1.22 Objetos del dominio
+- [x] 1.23 OU
+- [x] 1.24 Administración de objetos
+- [x] 1.25 GPO
+- [x] 1.26 Administración de equipos
 
 ---
 
@@ -64,8 +65,8 @@ Este documento refleja el estado actual del proyecto y el progreso de cada bloqu
 - [x] Tarjetas completas
 - [x] Banco de preguntas
 - [x] Mini tests
-- [ ] Simulacro del bloque
-- [ ] Misiones del bloque
+- [x] Simulacro del bloque
+- [x] Misiones del bloque
 - [x] Revisión del bloque
 
 ---

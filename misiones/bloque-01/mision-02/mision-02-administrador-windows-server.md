@@ -274,3 +274,9 @@ Marca cada apartado cuando seas capaz de resolverlo sin consultar apuntes.
 - [ ] Comprendo los roles de Windows Server.
 - [ ] Sé administrar el servidor de forma básica.
 - [ ] Me siento preparado para comenzar Active Directory.
+
+---
+
+# Soluciones
+
+- [Solución oficial](solucion-mision-02.md)
