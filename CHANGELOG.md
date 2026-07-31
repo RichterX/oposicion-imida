@@ -142,4 +142,5 @@ Añadido:
 - Añadido simulacro 1 de examen para todo el bloque 1
 - Añadida plantilla de soluciones para el simulacro 1
 - Añadida corrección de soluciones para el simulacro 1
+- Añadidas tarjetas de estudio para el bloque 1 completo
 
