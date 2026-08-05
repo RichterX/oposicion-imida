@@ -144,3 +144,30 @@ Añadido:
 - Añadida corrección de soluciones para el simulacro 1
 - Añadidas tarjetas de estudio para el bloque 1 completo
 
+## Bloque 2
+
+# v0.10.0
+
+Añadido:
+
+- Añadido capítulo 2.1 Introducción a redes
+- Añadido capítulo 2.2 Direccionamiento IP
+- Añadido capítulo 2.3 Ethernet
+- Añadido capítulo 2.4 DNS
+- Añadido capítulo 2.5 DHCP
+- Añadido capítulo 2.6 VPN
+- Añadido capítulo 2.7 VLAN
+
+# v0.10.1
+
+Añadido:
+
+- Añadido capítulo 2.8 Correo Electrónico
+- Añadido capítulo 2.9 Firewalls
+- Añadido capítulo 2.10 Herramientas de diagnóstico
+- Añadido capítulo 2.11 Nat y Pat
+- Añadida misión 4 para Redes
+- Añadidas soluciones para la misión 4 de Redes
+- Añadido simulacro 2 de exámen para todo el bloque 2
+- Añadida plantilla de corrección para el simulacro 2
+
