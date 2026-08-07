@@ -164,10 +164,17 @@ Añadido:
 
 - Añadido capítulo 2.8 Correo Electrónico
 - Añadido capítulo 2.9 Firewalls
-- Añadido capítulo 2.10 Herramientas de diagnóstico
+- Añadido capítulo 2.10 Herramientas de diagnóstico de Red
 - Añadido capítulo 2.11 Nat y Pat
 - Añadida misión 4 para Redes
 - Añadidas soluciones para la misión 4 de Redes
 - Añadido simulacro 2 de exámen para todo el bloque 2
 - Añadida plantilla de corrección para el simulacro 2
 
+# v0.10.2
+
+Añadido:
+
+- Añadido capítulo 3.1 SQL
+- Añadido capítulo 3.2 PostgreSQL
+- añadido capítulo 3.3 Oracle

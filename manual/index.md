@@ -363,11 +363,11 @@
 
 # 🗄️ Bloque 3 · Bases de datos
 
-## 3.1 SQL
+## [3.1 SQL](03-bases-de-datos/3.1-sql.md)
 
-## 3.2 PostgreSQL
+## [3.2 PostgreSQL](03-bases-de-datos/3.2-postgresql.md)
 
-## 3.3 Oracle
+## [3.3 Oracle](03-bases-de-datos/3.3-oracle.md)
 
 ## 3.4 MySQL
 

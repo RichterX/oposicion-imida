@@ -100,7 +100,23 @@ Este documento refleja el estado actual del proyecto y el progreso de cada bloqu
 
 # 🗄️ Bloque 3 · Bases de datos
 
-Pendiente
+- [x] 3.1 SQL
+- [x] 3.2 PostgreSQL
+- [x] 3.3 Oracle
+- [ ] 3.4 MySQL
+- [ ] 3.5 PL/SQL
+- [ ] 3.6 PostGIS
+
+---
+
+## Objetivos del bloque
+
+- [ ] Tarjetas completas
+- [ ] Banco de preguntas
+- [ ] Mini tests
+- [ ] Simulacro del bloque
+- [ ] Misiones del bloque
+- [ ] Revisión del bloque
 
 ---
 
