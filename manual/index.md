@@ -253,8 +253,10 @@
 
 ---
 
-## [Tarjetas de estudio](/tarjetas/index-tarjetas-bloque-01.md)
+## [Tarjetas de estudio](/tarjetas/bloque-01/index-tarjetas-bloque-01.md)
+## [Mini-tests por bloques](/tests/bloque-01/index-tests-bloque-01.md)
 ## [Simulacro de examen](/simulacros/bloque-01/simulacro-01.md)
+## [Misiones](/misiones/index-misiones.md)
 
 ---
 
@@ -361,6 +363,13 @@
 
 ---
 
+## [Tarjetas de estudio](/tarjetas/bloque-02/index-tarjetas-bloque-02.md)
+## [Mini-tests por bloques](/tests/bloque-02/index-tests-bloque-02.md)
+## [Simulacro de examen](/simulacros/bloque-02/simulacro-02.md)
+## [Misiones](/misiones/index-misiones.md)
+
+---
+
 # 🗄️ Bloque 3 · Bases de datos
 
 ## [3.1 SQL](03-bases-de-datos/3.1-sql.md)
@@ -369,11 +378,18 @@
 
 ## [3.3 Oracle](03-bases-de-datos/3.3-oracle.md)
 
-## 3.4 MySQL
+## [3.4 MySQL](03-bases-de-datos/04-mysql.md)
 
-## 3.5 PL/SQL
+## [3.5 PL/SQL](03-bases-de-datos/3.5-plsql.md)
 
-## 3.6 PostGIS
+## [3.6 PostGIS](03-bases-de-datos/3.6-postgis.md)
+
+---
+
+## [Tarjetas de estudio](/tarjetas/bloque-03/index-tarjetas-bloque-03.md)
+## [Mini-tests por bloques](/tests/bloque-03/index-tests-bloque-03.md)
+## [Simulacro de examen](/simulacros/bloque-03/simulacro-03.md)
+## [Misiones](/misiones/index-misiones.md)
 
 ---
 
@@ -459,10 +475,10 @@
 
 # 📑 Recursos del proyecto
 
-- Tarjetas de estudio
-- Mini tests
-- [Misiones](misiones/readme.md)
-- Simulacros
+- [Tarjetas de estudio](/tarjetas/index-tarjetas.md)
+- [Mini tests](/tests/index-tests.md)
+- [Misiones](/misiones/index-misiones.md)
+- [Simulacros](/simulacros/index-simulacros.md)
 
 ---
 

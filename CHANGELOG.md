@@ -80,6 +80,8 @@ Añadido:
 - 1.5 Permisos
 - Eliminados todos los acentos, mayúsculas y demás para conservar compatibilidad y evitar futuros problemas.
 
+---
+
 # v0.8.0
 
 ## Bloque 1
@@ -96,6 +98,8 @@ Añadido:
 - Añadida misión para todo el bloque de Linux
 - Añadida nueva estructura de carpetas con misiones, tarjetas, tests y simulacros
 
+---
+
 # v0.9.0
 
 ## Bloque 1
@@ -110,6 +114,8 @@ Añadido:
 - Añadido capítulo 1.14 NTFS
 - Añadido capítulo 1.15 Usuarios y Grupos
 
+---
+
 # v0.9.1
 
 ## Bloque 1
@@ -121,6 +127,8 @@ Añadido:
 - Añadido capítulo 1.18 Roles, características y administraciónd el servidor
 - Añadido capítulo 1.19 Administración y mantenimiento
 - Añadidas soluciones de la misión 01 de Linux
+
+---
 
 # v0.9.2
 
@@ -144,9 +152,11 @@ Añadido:
 - Añadida corrección de soluciones para el simulacro 1
 - Añadidas tarjetas de estudio para el bloque 1 completo
 
-## Bloque 2
+---
 
 # v0.10.0
+
+## Bloque 2
 
 Añadido:
 
@@ -158,7 +168,11 @@ Añadido:
 - Añadido capítulo 2.6 VPN
 - Añadido capítulo 2.7 VLAN
 
+---
+
 # v0.10.1
+
+## Bloque 2
 
 Añadido:
 
@@ -171,10 +185,33 @@ Añadido:
 - Añadido simulacro 2 de exámen para todo el bloque 2
 - Añadida plantilla de corrección para el simulacro 2
 
+---
+
 # v0.10.2
+
+## Bloque 3
 
 Añadido:
 
 - Añadido capítulo 3.1 SQL
 - Añadido capítulo 3.2 PostgreSQL
 - añadido capítulo 3.3 Oracle
+
+---
+
+# v0.10.3
+
+## Bloque 3
+
+Añadido:
+
+- Añadido capítulo 3.4 MySQL
+- Añadido capítulo 3.5 PL/SQL
+- Añadido capítulo 3.6 PostGIS
+- Añadida misión 5 para Bases de datos
+- Añadidas soluciones para la misión 5 de Bases de Datos
+- Añadido simulacro 3 de exámen para todo el bloque 3
+- Añadida plantilla de corrección para el simulacro 3
+- Añadidas tarjetas del bloque 2 y bloque 3
+- Añadidos tests al bloque 1, 2 y 3 en su directorio.
+- Actualizado el index principal.

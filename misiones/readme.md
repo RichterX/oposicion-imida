@@ -2,6 +2,8 @@
 
 > "La teoría te dice qué hace un comando. Las misiones te enseñan cuándo utilizarlo."
 
+## [Indice general de misiones](index-misiones.md)
+
 ---
 
 # ¿Qué son las misiones?

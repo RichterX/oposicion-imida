@@ -103,9 +103,31 @@ Este documento refleja el estado actual del proyecto y el progreso de cada bloqu
 - [x] 3.1 SQL
 - [x] 3.2 PostgreSQL
 - [x] 3.3 Oracle
-- [ ] 3.4 MySQL
-- [ ] 3.5 PL/SQL
-- [ ] 3.6 PostGIS
+- [x] 3.4 MySQL
+- [x] 3.5 PL/SQL
+- [x] 3.6 PostGIS
+
+---
+
+## Objetivos del bloque
+
+- [x] Tarjetas completas
+- [x] Banco de preguntas
+- [x] Mini tests
+- [x] Simulacro del bloque
+- [x] Misiones del bloque
+- [x] Revisión del bloque
+
+---
+
+# 🖥️ Bloque 4 · Infraestructura
+
+- [ ] CPD
+- [ ] Virtualización
+- [ ] VMware
+- [ ] RAID
+- [ ] NAS
+- [ ] SAN
 
 ---
 
@@ -120,27 +142,69 @@ Este documento refleja el estado actual del proyecto y el progreso de cada bloqu
 
 ---
 
-# 🖥️ Bloque 4 · Infraestructura
+# 💻 Bloque 5 · Programación
 
-Pendiente
+- [ ] Python
+- [ ] Java
+- [ ] Programación Orientada a Objetos
+- [ ] UML
+- [ ] HTML
+- [ ] CSS
+- [ ] JavaScript
+- [ ] XML
+- [ ] JSON
 
 ---
 
-# 💻 Bloque 5 · Programación
+## Objetivos del bloque
 
-Pendiente
+- [ ] Tarjetas completas
+- [ ] Banco de preguntas
+- [ ] Mini tests
+- [ ] Simulacro del bloque
+- [ ] Misiones del bloque
+- [ ] Revisión del bloque
 
 ---
 
 # 📈 Bloque 6 · Gestión TIC
 
-Pendiente
+- [ ] ITIL
+- [ ] Scrum
+- [ ] PRINCE2
+- [ ] ISO 20000
+
+---
+
+## Objetivos del bloque
+
+- [ ] Tarjetas completas
+- [ ] Banco de preguntas
+- [ ] Mini tests
+- [ ] Simulacro del bloque
+- [ ] Misiones del bloque
+- [ ] Revisión del bloque
 
 ---
 
 # 🔐 Bloque 7 · Seguridad
 
-Pendiente
+- [ ] Esquema Nacional de Seguridad
+- [ ] RGPD
+- [ ] Certificados digitales
+- [ ] Firewalls
+- [ ] Ciberseguridad
+
+---
+
+## Objetivos del bloque
+
+- [ ] Tarjetas completas
+- [ ] Banco de preguntas
+- [ ] Mini tests
+- [ ] Simulacro del bloque
+- [ ] Misiones del bloque
+- [ ] Revisión del bloque
 
 ---
 
@@ -148,4 +212,20 @@ Pendiente
 
 Pendiente
 
+- [ ] Organización del IMIDA
+- [ ] Legislación
+- [ ] Investigación
+- [ ] Buenas prácticas de laboratorio
+- [ ] Gestión de residuos
+- [ ] Muestreo
+
 ---
+
+## Objetivos del bloque
+
+- [ ] Tarjetas completas
+- [ ] Banco de preguntas
+- [ ] Mini tests
+- [ ] Simulacro del bloque
+- [ ] Misiones del bloque
+- [ ] Revisión del bloque
