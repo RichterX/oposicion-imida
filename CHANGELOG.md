@@ -215,3 +215,5 @@ Añadido:
 - Añadidas tarjetas del bloque 2 y bloque 3
 - Añadidos tests al bloque 1, 2 y 3 en su directorio.
 - Actualizado el index principal.
+- Añadidos índices a simulacros, tarjetas y tests.
+- Todos los índices actualizados con los nuevos cambios.
