@@ -227,3 +227,4 @@ Añadido:
 - Añadido capítulo 4.1 CPD, en varias partes por su extensión.
 - Añadido capítulo 4.2 Virtualización, en varias partes por su extensión.
 - Añadido capítulo 4.3 VMware, en varias partes por su extensión.
+- Añadido capítulo 4.4 RAID, en varias partes por su extensión.

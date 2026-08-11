@@ -158,6 +158,10 @@
 ### [Parte 6](04-infraestructura/4.3-vmware-7.md)
 
 ## 4.4 RAID
+### [Parte 1](04-infraestructura/4.4-raid-1.md)
+### [Parte 2](04-infraestructura/4.4-raid-2.md)
+### [Parte 3](04-infraestructura/4.4-raid-3.md)
+### [Parte 4](04-infraestructura/4.4-raid-4.md)
 
 ## 4.5 NAS
 
