@@ -396,7 +396,13 @@
 # 🖥️ Bloque 4 · Infraestructura
 
 ## 4.1 CPD
-
+    ### [Parte 1](04-infraestructura/4.1-cpd-1.md)
+    ### [Parte 2](04-infraestructura/4.1-cpd-2.md)
+    ### [Parte 3](04-infraestructura/4.1-cpd-3.md)
+    ### [Parte 4](04-infraestructura/4.1-cpd-4.md)
+    ### [Parte 5](04-infraestructura/4.1-cpd-5.md)
+    ### [Parte 6](04-infraestructura/4.1-cpd-6.md)
+    ### [Parte 7](04-infraestructura/4.1-cpd-7.md)
 ## 4.2 Virtualización
 
 ## 4.3 VMware

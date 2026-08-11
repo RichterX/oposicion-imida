@@ -217,3 +217,11 @@ Añadido:
 - Actualizado el index principal.
 - Añadidos índices a simulacros, tarjetas y tests.
 - Todos los índices actualizados con los nuevos cambios.
+
+# v0.11.0
+
+## Bloque 4
+
+Añadido:
+
+- Añadido capítulo 4.1 CPD, en varias partes por su extensión.
