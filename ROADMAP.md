@@ -122,9 +122,9 @@ Este documento refleja el estado actual del proyecto y el progreso de cada bloqu
 
 # 🖥️ Bloque 4 · Infraestructura
 
-- [x] CPD (Todas sus partes)
+- [x] CPD
 - [x] Virtualización
-- [ ] VMware
+- [x] VMware
 - [ ] RAID
 - [ ] NAS
 - [ ] SAN
