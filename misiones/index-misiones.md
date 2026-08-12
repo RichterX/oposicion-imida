@@ -37,3 +37,10 @@ Este indice centraliza todas las misiones disponibles del proyecto, organizadas 
 
 - [Enunciado](bloque-03/mision-05-bases-de-datos.md)
 - [Solucion](bloque-03/solucion-mision-05.md)
+
+## Bloque 04 - Infraestructura
+
+### Mision 05 - Infraestructura
+
+- [Enunciado](bloque-04/mision-06-infraestructura.md)
+- [Solucion](bloque-04/solucion-mision-06.md)

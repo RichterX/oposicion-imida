@@ -126,7 +126,7 @@ Este documento refleja el estado actual del proyecto y el progreso de cada bloqu
 - [x] Virtualización
 - [x] VMware
 - [x] RAID
-- [ ] NAS
+- [x] NAS
 - [ ] SAN
 
 ---

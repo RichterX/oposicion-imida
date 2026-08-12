@@ -228,3 +228,18 @@ Añadido:
 - Añadido capítulo 4.2 Virtualización, en varias partes por su extensión.
 - Añadido capítulo 4.3 VMware, en varias partes por su extensión.
 - Añadido capítulo 4.4 RAID, en varias partes por su extensión.
+
+# v0.11.1
+
+## Bloque 4
+
+Añadido:
+
+- Añadido capítulo 4.5 NAS, en varias partes por su extensión.
+- Añadido capítulo 4.6 SAN, en varias partes por su extensión.
+- Añadida misión 6 para el bloque 4 de Infraestructura
+- Añadidas soluciones para la misión 6 de Infraestructura
+- Añadido simulacro para el bloque 4.
+- Añadida plantilla de corrección para el simulacro 4.
+- Añadiddas tarjetas para el bloque 4.
+- Añadidos tests para el bloque 4.

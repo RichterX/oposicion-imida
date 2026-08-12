@@ -24,3 +24,9 @@ Este indice reune todos los simulacros disponibles, organizados por bloques.
 - [Simulacro 03](bloque-03/simulacro-03.md)
 - [Simulacro practico bloque 3](bloque-03/simulacro-practico-bloque-3.md)
 - [Plantilla y correccion simulacro 03](bloque-03/plantilla-y-correccion-simulacro-03.md)
+
+## Bloque 04 - Infraestructura
+
+- [Simulacro 04](bloque-04/simulacro-04.md)
+- [Plantilla simulacro 04](bloque-04/plantilla-simulacro-04.md)
+- [Corrección simulacro 04](bloque-04/corrección-simulacro-04.md)

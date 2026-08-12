@@ -68,7 +68,7 @@
 ---
 
 ## [Tarjetas de estudio](/tarjetas/bloque-01/index-tarjetas-bloque-01.md)
-## [Mini-tests por bloques](/tests/bloque-01/index-tests-bloque-01.md)
+## [Mini-tests](/tests/bloque-01/index-tests-bloque-01.md)
 ## [Simulacro de examen](/simulacros/bloque-01/simulacro-01.md)
 ## [Misiones](/misiones/index-misiones.md)
 
@@ -100,8 +100,8 @@
 
 ---
 
-## [Tarjetas de estudio](/tarjetas/bloque-02/index-tarjetas-bloque-02.md)
-## [Mini-tests por bloques](/tests/bloque-02/index-tests-bloque-02.md)
+## [Tarjetas de estudio](/tarjetas/bloque-02/bloque-02-redes.md)
+## [Mini-test](/tests/bloque-02/test-bloque-02-redes.md)
 ## [Simulacro de examen](/simulacros/bloque-02/simulacro-02.md)
 ## [Misiones](/misiones/index-misiones.md)
 
@@ -123,8 +123,8 @@
 
 ---
 
-## [Tarjetas de estudio](/tarjetas/bloque-03/index-tarjetas-bloque-03.md)
-## [Mini-tests por bloques](/tests/bloque-03/index-tests-bloque-03.md)
+## [Tarjetas de estudio](/tarjetas/bloque-03/bloque-03-bases-de-datos.md)
+## [Mini-test](/tests/bloque-03/test-bloque-03-bases-de-datos.md)
 ## [Simulacro de examen](/simulacros/bloque-03/simulacro-03.md)
 ## [Misiones](/misiones/index-misiones.md)
 
@@ -164,8 +164,24 @@
 ### [Parte 4](04-infraestructura/4.4-raid-4.md)
 
 ## 4.5 NAS
+### [Parte 1](04-infraestructura/4.5-nas-1.md)
+### [Parte 2](04-infraestructura/4.5-nas-2.md)
+### [Parte 3](04-infraestructura/4.5-nas-3.md)
+### [Parte 4](04-infraestructura/4.5-nas-4.md)
 
 ## 4.6 SAN
+### [Parte 1](04-infraestructura/4.6-san-1.md)
+### [Parte 2](04-infraestructura/4.6-san-2.md)
+### [Parte 3](04-infraestructura/4.6-san-3.md)
+### [Parte 4](04-infraestructura/4.6-san-4.md)
+### [Parte 5](04-infraestructura/4.6-san-5.md)
+
+---
+
+## [Tarjetas de estudio](/tarjetas/bloque-04/index-tarjetas-bloque-04.md)
+## [Mini-test](/tests/bloque-04/test-bloque-04-infraestructura.md)
+## [Simulacro de examen](/simulacros/bloque-04/simulacro-04.md)
+## [Misiones](/misiones/index-misiones.md)
 
 ---
 

@@ -7,6 +7,7 @@ Indice de mini-tests organizados por bloques.
 - [Bloque 01 - Administracion de sistemas](bloque-01/index-tests-bloque-01.md)
 - [Bloque 02 - Redes](bloque-02/index-tests-bloque-02.md)
 - [Bloque 03 - Bases de datos](bloque-03/index-tests-bloque-03.md)
+- [Bloque 04 - Infraestructura](bloque-04/index-tests-bloque-04.md)
 
 ## Como usar estos tests
 
