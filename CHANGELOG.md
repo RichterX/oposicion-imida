@@ -243,3 +243,4 @@ Añadido:
 - Añadida plantilla de corrección para el simulacro 4.
 - Añadiddas tarjetas para el bloque 4.
 - Añadidos tests para el bloque 4.
+- Añadido capítulo 5.1 Python, en varias partes por su extensión.

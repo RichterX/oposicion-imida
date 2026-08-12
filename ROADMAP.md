@@ -127,24 +127,24 @@ Este documento refleja el estado actual del proyecto y el progreso de cada bloqu
 - [x] VMware
 - [x] RAID
 - [x] NAS
-- [ ] SAN
+- [x] SAN
 
 ---
 
 ## Objetivos del bloque
 
-- [ ] Tarjetas completas
-- [ ] Banco de preguntas
-- [ ] Mini tests
-- [ ] Simulacro del bloque
-- [ ] Misiones del bloque
-- [ ] Revisión del bloque
+- [x] Tarjetas completas
+- [x] Banco de preguntas
+- [x] Mini tests
+- [x] Simulacro del bloque
+- [x] Misiones del bloque
+- [x] Revisión del bloque
 
 ---
 
 # 💻 Bloque 5 · Programación
 
-- [ ] Python
+- [x] Python
 - [ ] Java
 - [ ] Programación Orientada a Objetos
 - [ ] UML

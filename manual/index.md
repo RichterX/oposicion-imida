@@ -188,6 +188,18 @@
 # 💻 Bloque 5 · Programación
 
 ## 5.1 Python
+### [Parte 1](05-programacion/5.1-python-1.md)
+### [Parte 2](05-programacion/5.1-python-2.md)
+### [Parte 3](05-programacion/5.1-python-3.md)
+### [Parte 4](05-programacion/5.1-python-4.md)
+### [Parte 5](05-programacion/5.1-python-5.md)
+### [Parte 6](05-programacion/5.1-python-6.md)
+### [Parte 7](05-programacion/5.1-python-7.md)
+### [Parte 8](05-programacion/5.1-python-8.md)
+### [Parte 9](05-programacion/5.1-python-9.md)
+### [Parte 10](05-programacion/5.1-python-10.md)
+### [Parte 11](05-programacion/5.1-python-11.md)
+### [Parte 12](05-programacion/5.1-python-12.md)
 
 ## 5.2 Java
 
