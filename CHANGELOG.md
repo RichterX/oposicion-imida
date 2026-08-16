@@ -4,7 +4,7 @@ Todos los cambios importantes del proyecto quedarán registrados en este documen
 
 ---
 
-# v0.1.0
+# v0.1
 
 ## Inicio del proyecto
 
@@ -14,7 +14,7 @@ Todos los cambios importantes del proyecto quedarán registrados en este documen
 
 ---
 
-# v0.2.0
+# v0.2
 
 ## Infraestructura
 
@@ -24,7 +24,7 @@ Todos los cambios importantes del proyecto quedarán registrados en este documen
 
 ---
 
-# v0.3.0
+# v0.3
 
 ## Bloque 0
 
@@ -37,7 +37,7 @@ Añadidos:
 
 ---
 
-# v0.4.0
+# v0.4
 
 ## Bloque 1
 
@@ -47,7 +47,7 @@ Añadido:
 
 ---
 
-# v0.5.0
+# v0.5
 
 ## Bloque 1
 
@@ -57,7 +57,7 @@ Añadido:
 
 ---
 
-# v0.6.0
+# v0.6
 
 ## Bloque 1
 
@@ -70,7 +70,7 @@ Subidos los archivos originales en Markdown para conservar caracteres especiales
 
 ---
 
-# v0.7.0
+# v0.7
 
 ## Bloque 1
 
@@ -82,7 +82,7 @@ Añadido:
 
 ---
 
-# v0.8.0
+# v0.8
 
 ## Bloque 1
 
@@ -100,7 +100,7 @@ Añadido:
 
 ---
 
-# v0.9.0
+# v0.9
 
 ## Bloque 1
 
@@ -154,7 +154,7 @@ Añadido:
 
 ---
 
-# v0.10.0
+# v0.10
 
 ## Bloque 2
 
@@ -187,7 +187,7 @@ Añadido:
 
 ---
 
-# v0.10.2
+# v0.11
 
 ## Bloque 3
 
@@ -199,7 +199,7 @@ Añadido:
 
 ---
 
-# v0.10.3
+# v0.11.1
 
 ## Bloque 3
 
@@ -218,7 +218,7 @@ Añadido:
 - Añadidos índices a simulacros, tarjetas y tests.
 - Todos los índices actualizados con los nuevos cambios.
 
-# v0.11.0
+# v0.12
 
 ## Bloque 4
 
@@ -229,7 +229,7 @@ Añadido:
 - Añadido capítulo 4.3 VMware, en varias partes por su extensión.
 - Añadido capítulo 4.4 RAID, en varias partes por su extensión.
 
-# v0.11.1
+# v0.12.1
 
 ## Bloque 4
 
@@ -244,3 +244,37 @@ Añadido:
 - Añadiddas tarjetas para el bloque 4.
 - Añadidos tests para el bloque 4.
 - Añadido capítulo 5.1 Python, en varias partes por su extensión.
+
+# v0.13
+
+## Bloque 5
+
+Añadido:
+
+- Añadido capítulo 5.2 Java, en varias partes por su extensión.
+- Añadido simulacro para el primer capítulo del bloque 5 (Python) por su extensión.
+- Añadido simulacro para el segundo capítulo del bloque 5 (Java) por su extensión.
+- Añadidas plantillas de corrección y soluciones para el capítulo 5.1 y 5.2 del bloque 5.
+- Añadido capítulo 5.3 Programación orientada a objetos, en varias partes por su extensión.
+- Añadido capítulo 5.4 UML, en varias partes por su extensión.
+- Añadido capítulo 5.5 HTML, en varias partes por su extensión.
+- Añadido capítulo 5.6 CSS, en varias partes por su extensión.
+- Añadido capítulo 5.7 JavaScript, en varias partes por su extensión.
+- Añadido capítulo 5.8 XML, en varias partes por su extensión.
+- Añadido capítulo 5.9 JSON, en varias partes por su extensión.
+- Añadido simulacro para el capítulo 5.7 JavaScript por su extensión.
+- Añadidas plantillas de corrección y soluciones para el capítulo 5.7 JavaScript.
+- Añadido simulacro general para los capítulos 5.3, 5.4, 5.5, 5.6, 5.8 y 5.9, ya que el resto tiene sus propios simulacros.
+- Añadida plantilla de corrección y soluciones para el simulacro general del bloque 5 Programación.
+- Añadidas tarjetas de estudio para todo el bloque 5 Programación
+- Añadidos mini tests para todo el bloque 5 Programación.
+- Añadidas misiones 7, 8, 9 y 10 para todo el bloque 5 Programación.
+- Añadidas soluciones para las misiones 7, 8, 9 y 10 del bloque 05 Programación
+- Añadido capítulo 6.1 ITIL.
+- Añadido capítulo 6.2 Scrum.
+- Añadido capítulo 6.3 PRINCE2.
+- Añadido capítulo 6.4 ISO 20000.
+- Añadidos mini tests para el bloque 6 Gestión TIC
+- Añadidas tarjetas de estudio para el bloque 6 Gestión TIC.
+- Añadida misión 11 para el bloque 6 Gestión TIC.
+- Añadidas soluciones para la misión 11 del bloque 6 Gestión TIC

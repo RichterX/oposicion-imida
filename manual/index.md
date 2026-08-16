@@ -202,32 +202,73 @@
 ### [Parte 12](05-programacion/5.1-python-12.md)
 
 ## 5.2 Java
+### [Parte 1](05-programacion/5.2-java-1.md)
+### [Parte 2](05-programacion/5.2-java-2.md)
+### [Parte 3](05-programacion/5.2-java-3.md)
+### [Parte 4](05-programacion/5.2-java-4.md)
+### [Parte 5](05-programacion/5.2-java-5.md)
+### [Parte 6](05-programacion/5.2-java-6.md)
 
 ## 5.3 Programación Orientada a Objetos
+### [Parte 1](05-programacion/5.3-poo-1.md)
+### [Parte 2](05-programacion/5.3-poo-2.md)
 
 ## 5.4 UML
+### [Parte 1](05-programacion/5.4-uml-1.md)
+### [Parte 2](05-programacion/5.4-uml-2.md)
 
 ## 5.5 HTML
+### [Parte 1](05-programacion/5.5-html-1.md)
+### [Parte 2](05-programacion/5.5-html-2.md)
 
 ## 5.6 CSS
+### [Parte 1](05-programacion/5.6-css-1.md)
+### [Parte 2](05-programacion/5.6-css-2.md)
+### [Parte 3](05-programacion/5.6-css-3.md)
 
 ## 5.7 JavaScript
+### [Parte 1](05-programacion/5.7-javascript-1.md)
+### [Parte 2](05-programacion/5.7-javascript-2.md)
+### [Parte 3](05-programacion/5.7-javascript-3.md)
+### [Parte 4](05-programacion/5.7-javascript-4.md)
+### [Parte 5](05-programacion/5.7-javascript-5.md)
+### [Parte 6](05-programacion/5.7-javascript-6.md)
 
 ## 5.8 XML
+### [Parte 1](05-programacion/5.8-xml-1.md)
+### [Parte 2](05-programacion/5.8-xml-2.md)
+### [Parte 3](05-programacion/5.8-xml-3.md)
+### [Parte 4](05-programacion/5.8-xml-4.md)
 
 ## 5.9 JSON
+### [Parte 1](05-programacion/5.9-json-1.md)
+### [Parte 2](05-programacion/5.9-json-2.md)
+
+---
+
+## [Tarjetas de estudio](/tarjetas/bloque-05/index-tarjetas-bloque-05.md)
+## [Mini-test](/tests/bloque-05/index-tests-bloque-05.md)
+## [Simulacro de examen](/simulacros/index-simulacros.md)
+## [Misiones](/misiones/index-misiones.md)
 
 ---
 
 # 📈 Bloque 6 · Gestión TIC
 
-## 6.1 ITIL
+## [6.1 ITIL](06-gestion-tic/6.1-itil.md)
 
-## 6.2 Scrum
+## [6.2 Scrum](06-gestion-tic/6.2-scrum.md)
 
-## 6.3 PRINCE2
+## [6.3 PRINCE2](06-gestion-tic/6.3-prince2.md)
 
-## 6.4 ISO 20000
+## [6.4 ISO 20000](06-gestion-tic/6.4-iso-20000.md)
+
+---
+
+## [Tarjetas de estudio](/tarjetas/bloque-06/index-tarjetas-bloque-06.md)
+## [Mini-test](/tests/bloque-06/index-tests-bloque-06.md)
+## [Simulacro de examen](/simulacros/bloque-06/simulacro-06.md)
+## [Misiones](/misiones/bloque-06/mision-11-gestion-tic.md)
 
 ---
 

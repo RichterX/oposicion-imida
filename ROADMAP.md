@@ -145,45 +145,45 @@ Este documento refleja el estado actual del proyecto y el progreso de cada bloqu
 # 💻 Bloque 5 · Programación
 
 - [x] Python
-- [ ] Java
-- [ ] Programación Orientada a Objetos
-- [ ] UML
-- [ ] HTML
-- [ ] CSS
-- [ ] JavaScript
-- [ ] XML
-- [ ] JSON
+- [x] Java
+- [x] Programación Orientada a Objetos
+- [x] UML
+- [x] HTML
+- [x] CSS
+- [x] JavaScript
+- [x] XML
+- [x] JSON
 
 ---
 
 ## Objetivos del bloque
 
-- [ ] Tarjetas completas
-- [ ] Banco de preguntas
-- [ ] Mini tests
-- [ ] Simulacro del bloque
-- [ ] Misiones del bloque
-- [ ] Revisión del bloque
+- [x] Tarjetas completas
+- [x] Banco de preguntas
+- [x] Mini tests
+- [x] Simulacro del bloque
+- [x] Misiones del bloque
+- [x] Revisión del bloque
 
 ---
 
 # 📈 Bloque 6 · Gestión TIC
 
-- [ ] ITIL
-- [ ] Scrum
-- [ ] PRINCE2
-- [ ] ISO 20000
+- [x] ITIL
+- [x] Scrum
+- [x] PRINCE2
+- [x] ISO 20000
 
 ---
 
 ## Objetivos del bloque
 
-- [ ] Tarjetas completas
-- [ ] Banco de preguntas
-- [ ] Mini tests
-- [ ] Simulacro del bloque
-- [ ] Misiones del bloque
-- [ ] Revisión del bloque
+- [x] Tarjetas completas
+- [x] Banco de preguntas
+- [x] Mini tests
+- [x] Simulacro del bloque
+- [x] Misiones del bloque
+- [x] Revisión del bloque
 
 ---
 

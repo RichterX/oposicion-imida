@@ -44,3 +44,32 @@ Este indice centraliza todas las misiones disponibles del proyecto, organizadas 
 
 - [Enunciado](bloque-04/mision-06-infraestructura.md)
 - [Solucion](bloque-04/solucion-mision-06.md)
+
+## Bloque 05 - Programación
+
+### Misión 07 - El Plano de la Máquina
+
+- [Enunciado](bloque-05/mision-07-plano-general.md)
+- [Solucion](bloque-05/solucion-mision-07.md)
+
+### Misión 08 - La interfaz de Gestiona
+
+- [Enunciado](bloque-05/mision-08-interfaz-gestiona.md)
+- [Solucion](bloque-05/solucion-mision-08.md)
+
+### Misión 09 - El archivo Heredado
+
+- [Enunciado](bloque-05/mision-09-archivo-heredado.md)
+- [Solucion](bloque-05/solucion-mision-09.md)
+
+### Misión 10 - La API
+
+- [Enunciado](bloque-05/mision-10-api.md)
+- [Solucion](bloque-05/solucion-mision-10.md)
+
+## Bloque 06 - Gestión TIC
+
+### Misión 11 - Proyecto Ingobernable
+
+- [Enunciado](bloque-06/mision-11-gestion-tic.md)
+- [Solucion](bloque-06/solucion-mision-11.md)

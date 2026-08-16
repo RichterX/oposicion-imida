@@ -8,6 +8,8 @@ Este directorio contiene tarjetas de repaso rapido para los bloques del manual.
 - [Bloque 02 - Redes](bloque-02/index-tarjetas-bloque-02.md)
 - [Bloque 03 - Bases de datos](bloque-03/index-tarjetas-bloque-03.md)
 - [Bloque 04 - Infraestructura](bloque-04/index-tarjetas-bloque-04.md)
+- [Bloque 05 - Programacion](bloque-05/index-tarjetas-bloque-05.md)
+- [Bloque 06 - Gestion TIC](bloque-06/index-tarjetas-bloque-06.md)
 
 ## Recomendacion de uso
 

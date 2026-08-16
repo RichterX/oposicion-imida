@@ -30,3 +30,19 @@ Este indice reune todos los simulacros disponibles, organizados por bloques.
 - [Simulacro 04](bloque-04/simulacro-04.md)
 - [Plantilla simulacro 04](bloque-04/plantilla-simulacro-04.md)
 - [Corrección simulacro 04](bloque-04/corrección-simulacro-04.md)
+
+## Bloque 05 - Programación
+
+- [Simulacro 05-A - Python](bloque-05/simulacro-05-a.md)
+- [Plantilla y corrección 05-A - Python](bloque-05/plantilla-y-correccion-simulacro-05-a.md)
+- [Simulacro 05-B - Java](bloque-05/simulacro-05-b.md)
+- [Plantilla y corrección 05-B - Java](bloque-05/plantilla-y-correccion-simulacro-05-b.md)
+- [Simulacro 05-C - JavaScript](bloque-05/simulacro-05-c.md)
+- [Plantilla y corrección 05-C - JavaScript](bloque-05/plantilla-y-correccion-simulacro-05-c.md)
+- [Simulacro 05-D - General (POO, UML, HTML, CSS, XML y JSON)](bloque-05/simulacro-05-c.md)
+- [Plantilla y corrección 05-D - General (POO, UML, HTML, CSS, XML y JSON)](bloque-05/plantilla-y-correccion-simulacro-05-c.md)
+
+## Bloque 06 - Gestión TIC
+
+- [Simulacro 06](bloque-06/simulacro-06.md)
+- [Plantilla simulacro 06](bloque-06/plantilla-y-correccion-simulacro-06.md)
