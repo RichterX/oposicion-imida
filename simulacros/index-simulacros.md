@@ -46,3 +46,24 @@ Este indice reune todos los simulacros disponibles, organizados por bloques.
 
 - [Simulacro 06](bloque-06/simulacro-06.md)
 - [Plantilla simulacro 06](bloque-06/plantilla-y-correccion-simulacro-06.md)
+
+## Bloque 07 - Seguridad
+
+- [Simulacro 07](bloque-07/simulacro-07.md)
+- [Plantilla y corrección simulacro 07](bloque-07/plantilla-y-correccion-simulacro-07.md)
+
+## Bloque 08 - IMIDA
+
+- [Simulacro 08](bloque-08/simulacro-08.md)
+- [Plantilla y corrección simulacro 08](bloque-08/plantilla-y-correccion-simulacro-08.md)
+
+## SIMULACROS FINALES
+
+- [Simulacro Final 01](simulacros-finales/simulacro-final-1.md)
+- [Plantilla y corrección simulacro final 01](simulacros-finales/plantilla-y-correccion-simulacro-final-1.md)
+- [Simulacro Final 02](simulacros-finales/simulacro-final-2.md)
+- [Plantilla y corrección simulacro final 01](simulacros-finales/plantilla-y-correccion-simulacro-final-2.md)
+- [Simulacro Final 03](simulacros-finales/simulacro-final-3.md)
+- [Plantilla y corrección simulacro final 01](simulacros-finales/plantilla-y-correccion-simulacro-final-3.md)
+- [Simulacro Final 04](simulacros-finales/simulacro-final-4.md)
+- [Plantilla y corrección simulacro final 01](simulacros-finales/plantilla-y-correccion-simulacro-final-4.md)

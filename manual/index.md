@@ -155,7 +155,7 @@
 ### [Parte 4](04-infraestructura/4.3-vmware-4.md)
 ### [Parte 5](04-infraestructura/4.3-vmware-5.md)
 ### [Parte 6](04-infraestructura/4.3-vmware-6.md)
-### [Parte 6](04-infraestructura/4.3-vmware-7.md)
+### [Parte 7](04-infraestructura/4.3-vmware-7.md)
 
 ## 4.4 RAID
 ### [Parte 1](04-infraestructura/4.4-raid-1.md)
@@ -243,6 +243,7 @@
 ## 5.9 JSON
 ### [Parte 1](05-programacion/5.9-json-1.md)
 ### [Parte 2](05-programacion/5.9-json-2.md)
+### [Parte 3](05-programacion/5.9-json-3.md)
 
 ---
 
@@ -275,30 +276,58 @@
 # 🔐 Bloque 7 · Seguridad
 
 ## 7.1 Esquema Nacional de Seguridad
+### [Parte 1](07-seguridad/7.1-ens-1.md)
+### [Parte 2](07-seguridad/7.1-ens-2.md)
+### [Parte 3](07-seguridad/7.1-ens-3.md)
+### [Parte 4](07-seguridad/7.1-ens-4.md)
+### [Parte 5](07-seguridad/7.1-ens-5.md)
 
 ## 7.2 RGPD
+### [Parte 1](07-seguridad/7.2-rgpd-1.md)
+### [Parte 2](07-seguridad/7.2-rgpd-2.md)
+### [Parte 3](07-seguridad/7.2-rgpd-3.md)
+### [Parte 4](07-seguridad/7.2-rgpd-4.md)
 
 ## 7.3 Certificados digitales
+### [Parte 1](07-seguridad/7.3-certificados-digitales-1.md)
+### [Parte 2](07-seguridad/7.3-certificados-digitales-2.md)
+### [Parte 3](07-seguridad/7.3-certificados-digitales-3.md)
+### [Parte 4](07-seguridad/7.3-certificados-digitales-4.md)
 
 ## 7.4 Firewalls
+### [Parte 1](07-seguridad/7.4-firewalls-1.md)
+### [Parte 2](07-seguridad/7.4-firewalls-2.md)
+### [Parte 3](07-seguridad/7.4-firewalls-3.md)
+### [Parte 4](07-seguridad/7.4-firewalls-4.md)
 
 ## 7.5 Ciberseguridad
+### [Parte 1](07-seguridad/7.5-ciberseguridad-1.md)
+### [Parte 2](07-seguridad/7.5-ciberseguridad-2.md)
+### [Parte 3](07-seguridad/7.5-ciberseguridad-3.md)
+### [Parte 4](07-seguridad/7.5-ciberseguridad-4.md)
+
+---
+
+## [Tarjetas de estudio](/tarjetas/bloque-07/index-tarjetas-bloque-07.md)
+## [Mini-test](/tests/bloque-07/index-tests-bloque-07.md)
+## [Simulacro de examen](/simulacros/bloque-07/simulacro-07.md)
+## [Misiones](/misiones/index-misiones.md)
 
 ---
 
 # 🧪 Bloque 8 · IMIDA
 
-## 8.1 Organización del IMIDA
+## [8.1 Organización del IMIDA](08-imida/8.1-organizacion-imida.md)
 
-## 8.2 Legislación
+## [8.2 Legislación](08-imida/8.2-legislacion-imida.md)
 
-## 8.3 Investigación
+## [8.3 Investigación](08-imida/8.3-investigacion-imida.md)
 
-## 8.4 Buenas prácticas de laboratorio
+## [8.4 Buenas prácticas de laboratorio](08-imida/8.4-buenas-practicas-laboratorio.md)
 
-## 8.5 Gestión de residuos
+## [8.5 Gestión de residuos](08-imida/8.5-gestion-residuos.md)
 
-## 8.6 Muestreo
+## [8.6 Muestreo](08-imida/8.6-muestreo.md)
 
 ---
 
@@ -306,13 +335,22 @@
 
 - [Tarjetas de estudio](/tarjetas/index-tarjetas.md)
 - [Mini tests](/tests/index-tests.md)
-- [Misiones](/misiones/index-misiones.md)
-- [Simulacros](/simulacros/index-simulacros.md)
+- [Misiones](/misiones/bloque-08/mision-16-imida.md.md)
+- [Simulacros](/simulacros/bloque-08/simulacro-08.md)
+
+---
+
+# SIMULACROS FINALES
+
+- [Simulacro Final 01](/simulacros/simulacros-finales/simulacro-final-1.md)
+- [Simulacro Final 02](/simulacros/simulacros-finales/simulacro-final-2.md)
+- [Simulacro Final 03](/simulacros/simulacros-finales/simulacro-final-3.md)
+- [Simulacro Final 04](/simulacros/simulacros-finales/simulacro-final-4.md)
 
 ---
 
 # 🎯 Objetivo final
 
-Completar todos los bloques del temario, hacer las misiones, realizar un simulacro por bloque y un simulacro final antes de la segunda prueba de la oposición.
+Completar todos los bloques del temario, hacer las misiones, realizar los simulacros de cada bloque y los simulacros finales antes de la segunda prueba de la oposición.
 
 > **Principio del proyecto:** *Comprender antes que memorizar.*

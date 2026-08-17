@@ -10,6 +10,8 @@ Este directorio contiene tarjetas de repaso rapido para los bloques del manual.
 - [Bloque 04 - Infraestructura](bloque-04/index-tarjetas-bloque-04.md)
 - [Bloque 05 - Programacion](bloque-05/index-tarjetas-bloque-05.md)
 - [Bloque 06 - Gestion TIC](bloque-06/index-tarjetas-bloque-06.md)
+- [Bloque 07 - Seguridad](bloque-07/index-tarjetas-bloque-07.md)
+- [Bloque 08 - IMIDA](bloque-08/index-tarjetas-bloque-08.md)
 
 ## Recomendacion de uso
 

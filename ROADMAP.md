@@ -189,43 +189,41 @@ Este documento refleja el estado actual del proyecto y el progreso de cada bloqu
 
 # 🔐 Bloque 7 · Seguridad
 
-- [ ] Esquema Nacional de Seguridad
-- [ ] RGPD
-- [ ] Certificados digitales
-- [ ] Firewalls
-- [ ] Ciberseguridad
+- [x] Esquema Nacional de Seguridad
+- [x] RGPD
+- [x] Certificados digitales
+- [x] Firewalls
+- [x] Ciberseguridad
 
 ---
 
 ## Objetivos del bloque
 
-- [ ] Tarjetas completas
-- [ ] Banco de preguntas
-- [ ] Mini tests
-- [ ] Simulacro del bloque
-- [ ] Misiones del bloque
-- [ ] Revisión del bloque
+- [x] Tarjetas completas
+- [x] Banco de preguntas
+- [x] Mini tests
+- [x] Simulacro del bloque
+- [x] Misiones del bloque
+- [x] Revisión del bloque
 
 ---
 
 # 🧪 Bloque 8 · IMIDA
 
-Pendiente
-
-- [ ] Organización del IMIDA
-- [ ] Legislación
-- [ ] Investigación
-- [ ] Buenas prácticas de laboratorio
-- [ ] Gestión de residuos
-- [ ] Muestreo
+- [x] Organización del IMIDA
+- [x] Legislación
+- [x] Investigación
+- [x] Buenas prácticas de laboratorio
+- [x] Gestión de residuos
+- [x] Muestreo
 
 ---
 
 ## Objetivos del bloque
 
-- [ ] Tarjetas completas
-- [ ] Banco de preguntas
-- [ ] Mini tests
-- [ ] Simulacro del bloque
-- [ ] Misiones del bloque
-- [ ] Revisión del bloque
+- [x] Tarjetas completas
+- [x] Banco de preguntas
+- [x] Mini tests
+- [x] Simulacro del bloque
+- [x] Misiones del bloque
+- [x] Revisión del bloque

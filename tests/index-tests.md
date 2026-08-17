@@ -10,6 +10,8 @@ Indice de mini-tests organizados por bloques.
 - [Bloque 04 - Infraestructura](bloque-04/index-tests-bloque-04.md)
 - [Bloque 05 - Programacion](bloque-05/index-tests-bloque-05.md)
 - [Bloque 06 - Gestion TIC](bloque-06/index-tests-bloque-06.md)
+- [Bloque 07 - Seguridad](bloque-07/index-tests-bloque-07.md)
+- [Bloque 08 - IMIDA](bloque-08/index-tests-bloque-08.md)
 
 ## Como usar estos tests
 

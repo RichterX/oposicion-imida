@@ -2,7 +2,7 @@
 
 > Manual de preparación para la oposición de **Técnico Especialista en Tecnologías de la Información y Comunicaciones aplicadas a la Investigación (IMIDA)**.
 
-![Estado](https://img.shields.io/badge/Estado-En%20desarrollo-blue)
+![Estado](https://img.shields.io/badge/Estado-Temario%20completo-brightgreen)
 ![Licencia](https://img.shields.io/badge/Licencia-Privado-red)
 
 Repositorio:
@@ -14,11 +14,11 @@ Contenidos: [Indice de contenidos del manual](manual/index.md)
 
 # Objetivo
 
-Este repositorio contiene un manual completo de estudio diseñado específicamente para preparar la oposición del IMIDA.
+Este repositorio contiene un manual completo de estudio diseñado especificamente para preparar la oposicion del IMIDA.
 
-El objetivo no es crear un libro de informática, sino un material práctico, claro y orientado al examen oficial.
+El objetivo no es crear un libro de informatica, sino un material practico, claro y orientado al examen oficial.
 
-Todo el contenido se desarrollará de forma iterativa y se revisará al finalizar cada bloque temático.
+El contenido se ha desarrollado por bloques y se mantiene en revision continua para mejoras y correcciones puntuales.
 
 ---
 
@@ -71,173 +71,68 @@ oposicion-imida/
 │
 ├── manual/
 │   │
-│   ├── 00-introduccion/
-│   │
+│   ├── index.md
 │   ├── 01-administracion-sistemas/
-│   │
 │   ├── 02-redes/
-│   │
-│   ├── 03-bases-datos/
-│   │
+│   ├── 03-bases-de-datos/
 │   ├── 04-infraestructura/
-│   │
 │   ├── 05-programacion/
-│   │
 │   ├── 06-gestion-tic/
-│   │
 │   ├── 07-seguridad/
-│   │
 │   └── 08-imida/
 │
+├── misiones/
+│   ├── bloque-01/ ... bloque-08/
+│   ├── index-misiones.md
+│   └── readme.md
+│
+├── simulacros/
+│   ├── bloque-01/ ... bloque-08/
+│   ├── simulacros-finales/
+│   └── index-simulacros.md
+│
 ├── tarjetas/
-│   ├── bloque-01/
-│   ├── bloque-02/
-│   └── ...
+│   ├── bloque-01/ ... bloque-08/
+│   └── index-tarjetas.md
 │
 ├── tests/
-│   ├── bloque-01/
-│   ├── bloque-02/
-│   └── ...
-│
-└── simulacros/
-    ├── bloque-01/
-    ├── bloque-02/
-    └── final/
+│   ├── bloque-01/ ... bloque-08/
+│   └── index-tests.md
+
+└── .git/
 ```
 
 ---
 
-# Índice del manual
+# Índice del manual (estado actual)
 
-## Bloque 0 · Introducción
+El índice completo y enlazado está en:
 
-- Bienvenida
-- Índice
-- Progreso
-- Cómo estudiar este manual
+- [manual/index.md](manual/index.md)
 
----
+Bloques activos actualmente en el repositorio:
 
-## Bloque 1 · Administración de Sistemas
-### Parte A - Administración de Linux
+- Bloque 01 · Administración de Sistemas
+- Bloque 02 · Redes
+- Bloque 03 · Bases de datos
+- Bloque 04 · Infraestructura
+- Bloque 05 · Programación
+- Bloque 06 · Gestión TIC
+- Bloque 07 · Seguridad
+- Bloque 08 · IMIDA
 
-- 1.1 Introducción a GNU/Linux
-- 1.2 Sistema de archivos
-- 1.3 Navegación y gestión básica de archivos
-- 1.4 Usuarios y grupos
-- 1.5 Administración de usuarios y grupos
-- 1.6 Permisos
-- 1.7 Procesos
-- 1.8 Bash
-- 1.9 Servicios (systemd)
-- 1.10 Gestión de paquetes
-- 1.11 Administración básica
+Recursos de apoyo disponibles:
 
-### Parte B - Administración de Windows Server
-- 1.12 Introducción a Windows Server
-- 1.13 Arquitectura de Windows
-- 1.14 NTFS
-- 1.15 Usuarios y Grupos
-- 1.16 Permisos
-- 1.17 Procesos y Servicios
-- 1.18 Roles, características y administraciónd el servidor
-- 1.19 Administración y mantenimiento
-
-### Parte C - Active Directory
-- 1.20 Active Directory
-- 1.21 Objetos del dominio
-- 1.22 Instalación de AD DS y promoción a controlador de dominio
-- 1.23 Unidades Organizativas (OU)
-- 1.24 Administración de objetos
-- 1.25 Directivas de grupo (GPO)
-- 1.26 Administración de equipos
-
----
-
-## Bloque 2 · Redes
-
-- Modelo TCP/IP
-- IPv4
-- IPv6
-- Ethernet
-- VLAN
-- VPN
-- DNS
-- DHCP
-- Correo electrónico
-- FortiGate
-
----
-
-## Bloque 3 · Bases de datos
-
-- SQL
-- PostgreSQL
-- Oracle
-- MySQL
-- PL/SQL
-- PostGIS
-
----
-
-## Bloque 4 · Infraestructura
-
-- Virtualización
-- VMware
-- RAID
-- NAS
-- SAN
-- CPD
-
----
-
-## Bloque 5 · Programación
-
-- Python
-- Java
-- Programación Orientada a Objetos
-- UML
-- HTML
-- CSS
-- JavaScript
-- XML
-- JSON
-
----
-
-## Bloque 6 · Gestión TIC
-
-- ITIL
-- Scrum
-- PRINCE2
-- ISO 20000
-
----
-
-## Bloque 7 · Seguridad
-
-- Esquema Nacional de Seguridad
-- RGPD
-- Firewalls
-- Certificados
-- Ciberseguridad
-
----
-
-## Bloque 8 · IMIDA
-
-- Organización
-- Legislación
-- Investigación
-- Buenas prácticas
-- Gestión de residuos
-- Muestreo
+- [Tarjetas de estudio](tarjetas/index-tarjetas.md)
+- [Mini-tests](tests/index-tests.md)
+- [Simulacros](simulacros/index-simulacros.md)
+- [Misiones](misiones/index-misiones.md)
 
 ---
 
 # Versionado
 
-Cada modificación importante quedará reflejada en `CHANGELOG.md`.
+Cada modificacion importante quedara reflejada en CHANGELOG.md.
 
 Los capítulos se revisarán únicamente al finalizar cada bloque para mantener la coherencia del manual.
 
@@ -289,9 +184,9 @@ Siguiente capítulo
 
 # Estado del proyecto
 
-Actualmente se encuentra en desarrollo.
+Actualmente el temario y los materiales de apoyo estan completos.
 
-El objetivo es completar todo el temario antes de la segunda prueba de la oposición, manteniendo un único manual coherente y revisado.
+El objetivo ahora es mantener y mejorar el contenido con revisiones periodicas, asegurando coherencia y calidad en todo el manual.
 
 ---
 

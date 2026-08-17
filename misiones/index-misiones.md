@@ -73,3 +73,32 @@ Este indice centraliza todas las misiones disponibles del proyecto, organizadas 
 
 - [Enunciado](bloque-06/mision-11-gestion-tic.md)
 - [Solucion](bloque-06/solucion-mision-11.md)
+
+## Bloque 07 - Seguridad
+
+### Misión 12 - Esquema Nacional de Seguridad + RGPD
+
+- [Enunciado](bloque-07/mision-12-ens-rgpd.md)
+- [Solucion](bloque-07/solucion-mision-12.md)
+
+### Misión 13 - Identidad + PKI + Firewalls
+
+- [Enunciado](bloque-07/mision-13-identidad-pki-firewalls.md)
+- [Solucion](bloque-07/solucion-mision-13.md)
+
+### Misión 14 - Incidente de ciberseguridad
+
+- [Enunciado](bloque-07/mision-14-incidente-ciberseguridad.md)
+- [Solucion](bloque-07/solucion-mision-14.md)
+
+### Misión 15 - Auditoría integral del Bloque 7
+
+- [Enunciado](bloque-07/mision-15-auditoria-integral.md)
+- [Solucion](bloque-07/solucion-mision-15.md)
+
+## Bloque 08 - IMIDA
+
+### Misión 16 - Operación Muestra
+
+- [Enunciado](bloque-08/mision-16-imida.md)
+- [Solucion](bloque-08/solucion-mision-16.md)

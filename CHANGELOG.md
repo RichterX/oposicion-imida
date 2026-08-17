@@ -231,7 +231,7 @@ Añadido:
 
 # v0.12.1
 
-## Bloque 4
+## Bloque 4 - 5
 
 Añadido:
 
@@ -247,7 +247,7 @@ Añadido:
 
 # v0.13
 
-## Bloque 5
+## Bloque 5 - 6
 
 Añadido:
 
@@ -278,3 +278,33 @@ Añadido:
 - Añadidas tarjetas de estudio para el bloque 6 Gestión TIC.
 - Añadida misión 11 para el bloque 6 Gestión TIC.
 - Añadidas soluciones para la misión 11 del bloque 6 Gestión TIC
+
+# v1.0
+
+## Bloque 7 y 8
+
+Añadido:
+
+- Añadido capítulo 7.1 Esquema nacional de Seguridad, en varias partes por su extensión.
+- Añadido capítulo 7.2 RGPD, en varias partes por su extensión.
+- Añadido capítulo 7.3 Certificados Digitales, en varias partes por su extensión.
+- Añadido capítulo 7.4 Firewalls, en varias partes por su extensión.
+- Añadido capítulo 7.5 Ciberseguridad, en varias partes por su extensión.
+- Añadidas tarjetas de estudio para cada capítulo del bloque 7 Seguridad.
+- Añadidos mini tests para cada capítulo del bloque 7 Seguridad.
+- Añadidas misiones 12, 13, 14 y 15 del bloque 7 Seguridad.
+- Añadidas soluciones de las misiones 12, 13, 14 y 15 del bloque 7 Seguridad.
+- Añadido simulacro para el bloque 7 Seguridad.
+- Añadido capítulo 8.1 Organización del IMIDA.
+- Añadido capítulo 8.2 Legislación del IMIDA.
+- Añadido capítulo 8.3 Investigación.
+- Añadido capítulo 8.4 Buenas prácticas de laboratorio.
+- Añadido capítulo 8.5 Gestión de resíduos.
+- Añadido capítulo 8.6 Muestreo.
+- Añadidas tarjetas de estudio para cada capítulo del bloque 8 IMIDA.
+- Añadidos mini tests para cada capítulo del bloque 8 IMIDA.
+- Añadida misión 16 para el bloque 8 IMIDA.
+- Añadido simulacro para el bloque 8 IMIDA.
+- Añadidos 4 simulacros finales.
+- Añadidas plantillas de corrección y explicaciones para los 4 simulacros finales
+
