@@ -331,21 +331,28 @@
 
 ---
 
+## [Tarjetas de estudio](/tarjetas/bloque-08/index-tarjetas-bloque-08.md)
+## [Mini-test](/tests/bloque-08/index-tests-bloque-08.md)
+## [Simulacro de examen](/simulacros/bloque-08/simulacro-08.md)
+## [Misiones](/misiones/bloque-08/mision-16-imida.md.md)
+
+---
+
 # 📑 Recursos del proyecto
 
 - [Tarjetas de estudio](/tarjetas/index-tarjetas.md)
 - [Mini tests](/tests/index-tests.md)
-- [Misiones](/misiones/bloque-08/mision-16-imida.md.md)
-- [Simulacros](/simulacros/bloque-08/simulacro-08.md)
+- [Misiones](/misiones/index-misiones.md)
+- [Simulacros](/simulacros/index-simulacros.md)
 
 ---
 
-# SIMULACROS FINALES
+# 📑 SIMULACROS FINALES
 
-- [Simulacro Final 01](/simulacros/simulacros-finales/simulacro-final-1.md)
-- [Simulacro Final 02](/simulacros/simulacros-finales/simulacro-final-2.md)
-- [Simulacro Final 03](/simulacros/simulacros-finales/simulacro-final-3.md)
-- [Simulacro Final 04](/simulacros/simulacros-finales/simulacro-final-4.md)
+## [Simulacro Final 01](/simulacros/simulacros-finales/simulacro-final-1.md)
+## [Simulacro Final 02](/simulacros/simulacros-finales/simulacro-final-2.md)
+## [Simulacro Final 03](/simulacros/simulacros-finales/simulacro-final-3.md)
+## [Simulacro Final 04](/simulacros/simulacros-finales/simulacro-final-4.md)
 
 ---
 
