@@ -1,3 +1,12 @@
+﻿<!-- encabezado-homogeneizado -->
+# Simulacros Finales - SIMULACRO
+> **Bloque:** Simulacros Finales  
+> **Documento:** Simulacro  
+> **Preguntas de referencia:** N/D  
+> **Estructura objetivo:** datos del examen, instrucciones, hoja o plantilla de respuestas, y correccion razonada cuando aplique.  
+> **Revision:** 2026-08-17
+
+---
 # 🐉 SIMULACRO FINAL · EL ÚLTIMO MONSTRUO
 ## 100 preguntas · Bloques 01 → 08
 
@@ -953,3 +962,4 @@ Un acierto con `?` merece revisión igual que un fallo.
 > Cuando termines, guarda las respuestas. La corrección debe hacerse después, como en un examen real.
 
 ## 🎓 FIN
+

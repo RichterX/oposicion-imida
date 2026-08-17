@@ -1,4 +1,13 @@
-# BLOQUE 8A - SIMULACRO TIPO TEST: IMIDA
+﻿<!-- encabezado-homogeneizado -->
+# Bloque 08 - SIMULACRO
+> **Bloque:** Bloque 08  
+> **Documento:** Simulacro  
+> **Preguntas de referencia:** 70  
+> **Estructura objetivo:** datos del examen, instrucciones, hoja o plantilla de respuestas, y correccion razonada cuando aplique.  
+> **Revision:** 2026-08-17
+
+---
+# BLOQUE 8 - SIMULACRO TIPO TEST: IMIDA
 
 > **Bloque:** 8 - IMIDA  
 > **Capitulos:** 8.1 Organizacion, 8.2 Legislacion, 8.3 Investigacion, 8.4 BPL, 8.5 Gestion de residuos, 8.6 Muestreo  
@@ -6,7 +15,7 @@
 > **Preguntas:** 70  
 > **Opciones:** 4 por pregunta  
 > **Respuestas correctas:** 1 por pregunta  
-> **Nivel:** STAR STAR STAR STAR STAR  
+> **Nivel:** ⭐⭐⭐⭐⭐  
 > **Tiempo recomendado:** 90 minutos  
 > **Puntuacion recomendada:** +1 por acierto, 0 en blanco, -0,33 por error
 
@@ -685,3 +694,4 @@ Regla corta del tema de muestreo:
 **B.** La calidad empieza en la impresion del informe  
 **C.** Solo importa el instrumental final  
 **D.** La representatividad es secundaria
+

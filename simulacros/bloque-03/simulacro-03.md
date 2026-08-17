@@ -1,3 +1,12 @@
+﻿<!-- encabezado-homogeneizado -->
+# Bloque 03 - SIMULACRO
+> **Bloque:** Bloque 03  
+> **Documento:** Simulacro  
+> **Preguntas de referencia:** 80  
+> **Estructura objetivo:** datos del examen, instrucciones, hoja o plantilla de respuestas, y correccion razonada cuando aplique.  
+> **Revision:** 2026-08-17
+
+---
 # 🧪 Simulacro Tipo Test - Bloque 3
 
 ## Bases de Datos · SQL · PostgreSQL · MySQL · Oracle · PL/SQL · PostGIS
@@ -1209,4 +1218,5 @@ Transformar coordenadas
 **Puedes intentar [este ejercicio práctico](simulacro-practico-bloque-3.md) para afianzar conocimientos** 
 
 ### [Accede desde aquí a la plantilla de respuestas y explicaciones](plantilla-y-correcciones-simulacro-03.md)
+
 

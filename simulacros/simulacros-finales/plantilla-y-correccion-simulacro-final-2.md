@@ -1,3 +1,12 @@
+﻿<!-- encabezado-homogeneizado -->
+# Simulacros Finales - PLANTILLA Y CORRECCION
+> **Bloque:** Simulacros Finales  
+> **Documento:** Plantilla y correccion  
+> **Preguntas de referencia:** N/D  
+> **Estructura objetivo:** datos del examen, instrucciones, hoja o plantilla de respuestas, y correccion razonada cuando aplique.  
+> **Revision:** 2026-08-17
+
+---
 # 📝 SIMULACRO GENERAL 02 · CORRECCIÓN Y SOLUCIONES
 ## 70 preguntas · Bloques 01 → 08
 
@@ -1158,3 +1167,4 @@ VOLVER A REPASAR
 ```
 
 > **El objetivo final no es saber reconocer la respuesta correcta al verla. Es ser capaz de producirla cuando el examen te la pida sin avisar.**
+

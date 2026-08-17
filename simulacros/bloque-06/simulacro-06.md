@@ -1,3 +1,12 @@
+﻿<!-- encabezado-homogeneizado -->
+# Bloque 06 - SIMULACRO
+> **Bloque:** Bloque 06  
+> **Documento:** Simulacro  
+> **Preguntas de referencia:** 50  
+> **Estructura objetivo:** datos del examen, instrucciones, hoja o plantilla de respuestas, y correccion razonada cuando aplique.  
+> **Revision:** 2026-08-17
+
+---
 # 📝 SIMULACRO DE EXAMEN · BLOQUE 06
 # Gestión TIC
 ## ITIL · Scrum · PRINCE2 · ISO/IEC 20000
@@ -690,4 +699,5 @@ y realiza la corrección posteriormente.
 ```
 
 **Puntuación máxima: 50 puntos.**
+
 

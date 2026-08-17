@@ -1,3 +1,12 @@
+﻿<!-- encabezado-homogeneizado -->
+# Simulacros Finales - SIMULACRO
+> **Bloque:** Simulacros Finales  
+> **Documento:** Simulacro  
+> **Preguntas de referencia:** N/D  
+> **Estructura objetivo:** datos del examen, instrucciones, hoja o plantilla de respuestas, y correccion razonada cuando aplique.  
+> **Revision:** 2026-08-17
+
+---
 # 🏆 SIMULACRO FINAL 03 · GRAN EXAMEN DE CIERRE
 ## 70 preguntas · Bloques 01 → 08
 
@@ -913,3 +922,4 @@ RESISTENCIA
 > Cuando termines, guarda tus 70 respuestas. La corrección debe hacerse después, no durante el combate.
 
 ## 🎓 FIN
+

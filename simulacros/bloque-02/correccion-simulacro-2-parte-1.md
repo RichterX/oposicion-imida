@@ -1,3 +1,12 @@
+﻿<!-- encabezado-homogeneizado -->
+# Bloque 02 - CORRECCION RAZONADA
+> **Bloque:** Bloque 02  
+> **Documento:** Correccion razonada  
+> **Preguntas de referencia:** 35  
+> **Estructura objetivo:** datos del examen, instrucciones, hoja o plantilla de respuestas, y correccion razonada cuando aplique.  
+> **Revision:** 2026-08-17
+
+---
 # 📖 Corrección razonada
 
 ## Simulacro 01 · Bloque 2 · Redes

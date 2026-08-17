@@ -1,3 +1,12 @@
+﻿<!-- encabezado-homogeneizado -->
+# Bloque 04 - DOCUMENTO
+> **Bloque:** Bloque 04  
+> **Documento:** Documento de apoyo  
+> **Preguntas de referencia:** N/D  
+> **Estructura objetivo:** datos del examen, instrucciones, hoja o plantilla de respuestas, y correccion razonada cuando aplique.  
+> **Revision:** 2026-08-17
+
+---
 # BLOQUE 4 - CORRECCIÓN DEL SIMULACRO TIPO TEST
 
 > **Bloque:** 4 - Infraestructura  
@@ -1233,3 +1242,4 @@ BLOQUE 4
 ├── ✓ Plantilla de corrección
 └── ✓ Corrección explicada
 ```
+

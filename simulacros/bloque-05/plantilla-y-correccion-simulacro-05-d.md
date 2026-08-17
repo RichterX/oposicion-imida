@@ -1,3 +1,12 @@
+﻿<!-- encabezado-homogeneizado -->
+# Bloque 05 - PLANTILLA Y CORRECCION
+> **Bloque:** Bloque 05  
+> **Documento:** Plantilla y correccion  
+> **Preguntas de referencia:** 70  
+> **Estructura objetivo:** datos del examen, instrucciones, hoja o plantilla de respuestas, y correccion razonada cuando aplique.  
+> **Revision:** 2026-08-17
+
+---
 # 📝 PLANTILLA DE CORRECCIÓN · SIMULACRO GENERAL BLOQUE 5
 
 ## 5.3 POO · 5.4 UML · 5.5 HTML · 5.6 CSS · 5.8 XML · 5.9 JSON
@@ -504,3 +513,4 @@ JSON
 ---
 
 # 🏁 FIN DE LA CORRECCIÓN
+

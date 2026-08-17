@@ -1,3 +1,12 @@
+﻿<!-- encabezado-homogeneizado -->
+# Bloque 05 - PLANTILLA Y CORRECCION
+> **Bloque:** Bloque 05  
+> **Documento:** Plantilla y correccion  
+> **Preguntas de referencia:** 70  
+> **Estructura objetivo:** datos del examen, instrucciones, hoja o plantilla de respuestas, y correccion razonada cuando aplique.  
+> **Revision:** 2026-08-17
+
+---
 # BLOQUE 5B - PLANTILLA Y CORRECCIÓN: JAVA
 
 > **Bloque:** 5 - Programación  

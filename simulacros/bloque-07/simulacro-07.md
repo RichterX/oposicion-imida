@@ -1,4 +1,13 @@
-# BLOQUE 7A - SIMULACRO TIPO TEST: SEGURIDAD
+﻿<!-- encabezado-homogeneizado -->
+# Bloque 07 - SIMULACRO
+> **Bloque:** Bloque 07  
+> **Documento:** Simulacro  
+> **Preguntas de referencia:** 70  
+> **Estructura objetivo:** datos del examen, instrucciones, hoja o plantilla de respuestas, y correccion razonada cuando aplique.  
+> **Revision:** 2026-08-17
+
+---
+# BLOQUE 7 - SIMULACRO TIPO TEST: SEGURIDAD
 
 > **Bloque:** 7 - Seguridad  
 > **Capitulos:** 7.1 ENS, 7.2 RGPD, 7.3 Certificados digitales, 7.4 Firewalls, 7.5 Ciberseguridad  
@@ -6,7 +15,7 @@
 > **Preguntas:** 70  
 > **Opciones:** 4 por pregunta  
 > **Respuestas correctas:** 1 por pregunta  
-> **Nivel:** STAR STAR STAR STAR STAR  
+> **Nivel:** ⭐⭐⭐⭐⭐  
 > **Tiempo recomendado:** 90 minutos  
 > **Puntuacion recomendada:** +1 por acierto, 0 en blanco, -0,33 por error
 
@@ -683,3 +692,4 @@ En programas de concienciacion, la idea mas correcta es:
 **B.** Hacer una sesion unica y no repetirla  
 **C.** Incluir formacion continua para reducir riesgo humano  
 **D.** Centrar todo en herramientas y nada en personas
+

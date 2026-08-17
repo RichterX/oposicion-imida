@@ -1,3 +1,12 @@
+﻿<!-- encabezado-homogeneizado -->
+# Simulacros Finales - PLANTILLA Y CORRECCION
+> **Bloque:** Simulacros Finales  
+> **Documento:** Plantilla y correccion  
+> **Preguntas de referencia:** N/D  
+> **Estructura objetivo:** datos del examen, instrucciones, hoja o plantilla de respuestas, y correccion razonada cuando aplique.  
+> **Revision:** 2026-08-17
+
+---
 # 🏆 SIMULACRO FINAL 03 · CORRECCIÓN Y SOLUCIONES
 ## 70 preguntas · Bloques 01 → 08
 
@@ -1003,4 +1012,5 @@ Y a eso se suman las misiones y ejercicios realizados durante los ocho bloques.
 ```
 
 > **A partir de aquí, el objetivo cambia: menos contenido nuevo y más recuperación activa, repasos selectivos y análisis de errores.**
+
 

@@ -1,3 +1,12 @@
+﻿<!-- encabezado-homogeneizado -->
+# Bloque 01 - CORRECCION RAZONADA
+> **Bloque:** Bloque 01  
+> **Documento:** Correccion razonada  
+> **Preguntas de referencia:** N/D  
+> **Estructura objetivo:** datos del examen, instrucciones, hoja o plantilla de respuestas, y correccion razonada cuando aplique.  
+> **Revision:** 2026-08-17
+
+---
 # SIMULACRO 01
 # Corrección
 ## Parte 4 (Preguntas 26-55)
@@ -1608,3 +1617,4 @@ Cada vez que el enunciado diga:
 empieza a pensar inmediatamente en:
 
 **GPO.**
+

@@ -1,3 +1,12 @@
+﻿<!-- encabezado-homogeneizado -->
+# Bloque 01 - SIMULACRO
+> **Bloque:** Bloque 01  
+> **Documento:** Simulacro  
+> **Preguntas de referencia:** 70  
+> **Estructura objetivo:** datos del examen, instrucciones, hoja o plantilla de respuestas, y correccion razonada cuando aplique.  
+> **Revision:** 2026-08-17
+
+---
 # SIMULACRO 01
 ## BLOQUE 1
 ### Administración de Sistemas

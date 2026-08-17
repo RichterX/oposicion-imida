@@ -1,3 +1,12 @@
+﻿<!-- encabezado-homogeneizado -->
+# Bloque 07 - PLANTILLA Y CORRECCION
+> **Bloque:** Bloque 07  
+> **Documento:** Plantilla y correccion  
+> **Preguntas de referencia:** 70  
+> **Estructura objetivo:** datos del examen, instrucciones, hoja o plantilla de respuestas, y correccion razonada cuando aplique.  
+> **Revision:** 2026-08-17
+
+---
 # BLOQUE 7A - PLANTILLA Y CORRECCION: SEGURIDAD
 
 > **Bloque:** 7 - Seguridad  
@@ -353,3 +362,4 @@ Logs/monitorizacion facilitan deteccion temprana y analisis forense.
 ### Pregunta 70 - C
 
 La concienciacion eficaz es continua y alcanza a toda la organizacion.
+

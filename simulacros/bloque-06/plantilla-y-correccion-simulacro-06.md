@@ -1,3 +1,12 @@
+﻿<!-- encabezado-homogeneizado -->
+# Bloque 06 - PLANTILLA Y CORRECCION
+> **Bloque:** Bloque 06  
+> **Documento:** Plantilla y correccion  
+> **Preguntas de referencia:** N/D  
+> **Estructura objetivo:** datos del examen, instrucciones, hoja o plantilla de respuestas, y correccion razonada cuando aplique.  
+> **Revision:** 2026-08-17
+
+---
 # 📝 PLANTILLA DE RESPUESTAS Y SOLUCIONES
 # SIMULACRO · BLOQUE 06 · GESTIÓN TIC
 
@@ -398,4 +407,5 @@ Esta relación es una de las mejores formas de evitar confusiones entre los cuat
 6.3 PRINCE2           ✅
 6.4 ISO/IEC 20000     ✅
 ```
+
 

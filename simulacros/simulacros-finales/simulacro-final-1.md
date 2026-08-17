@@ -1,3 +1,12 @@
+﻿<!-- encabezado-homogeneizado -->
+# Simulacros Finales - SIMULACRO
+> **Bloque:** Simulacros Finales  
+> **Documento:** Simulacro  
+> **Preguntas de referencia:** N/D  
+> **Estructura objetivo:** datos del examen, instrucciones, hoja o plantilla de respuestas, y correccion razonada cuando aplique.  
+> **Revision:** 2026-08-17
+
+---
 # 📝 SIMULACRO GENERAL 01 · OPOSICIÓN IMIDA
 ## 70 preguntas · Bloques 01 → 08
 
@@ -934,3 +943,4 @@ Este primer simulacro es nuestro:
 > **diagnóstico de combate.**
 
 Lo importante es descubrir **dónde muerde el temario**.
+

@@ -1,3 +1,12 @@
+﻿<!-- encabezado-homogeneizado -->
+# Bloque 03 - PLANTILLA Y CORRECCION
+> **Bloque:** Bloque 03  
+> **Documento:** Plantilla y correccion  
+> **Preguntas de referencia:** 40  
+> **Estructura objetivo:** datos del examen, instrucciones, hoja o plantilla de respuestas, y correccion razonada cuando aplique.  
+> **Revision:** 2026-08-17
+
+---
 # 📝 Plantilla de Corrección - Simulacro Bloque 3
 
 ## Bases de Datos · SQL · PostgreSQL · MySQL · Oracle · PL/SQL · PostGIS
@@ -984,3 +993,4 @@ Si fallas alguna de estas, merece especial atención:
 > Pero para preparar una oposición, importa todavía más saber **por qué fallaste**.
 >
 > Un error bien analizado vale más que diez respuestas acertadas por intuición.
+

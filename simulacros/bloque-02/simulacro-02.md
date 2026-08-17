@@ -1,3 +1,12 @@
+﻿<!-- encabezado-homogeneizado -->
+# Bloque 02 - SIMULACRO
+> **Bloque:** Bloque 02  
+> **Documento:** Simulacro  
+> **Preguntas de referencia:** 70  
+> **Estructura objetivo:** datos del examen, instrucciones, hoja o plantilla de respuestas, y correccion razonada cuando aplique.  
+> **Revision:** 2026-08-17
+
+---
 # SIMULACRO 02
 ## BLOQUE 2
 ### Redes

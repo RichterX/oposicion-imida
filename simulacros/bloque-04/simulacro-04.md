@@ -1,3 +1,12 @@
+﻿<!-- encabezado-homogeneizado -->
+# Bloque 04 - SIMULACRO
+> **Bloque:** Bloque 04  
+> **Documento:** Simulacro  
+> **Preguntas de referencia:** 70  
+> **Estructura objetivo:** datos del examen, instrucciones, hoja o plantilla de respuestas, y correccion razonada cuando aplique.  
+> **Revision:** 2026-08-17
+
+---
 # BLOQUE 4 - SIMULACRO TIPO TEST
 
 > **Bloque:** 4 - Infraestructura\
@@ -1169,3 +1178,4 @@ puedas hacer el simulacro sin spoilers.
 **80 preguntas.**
 
 Ahora toca enfrentarse al monstruo. 🏗️🧠
+

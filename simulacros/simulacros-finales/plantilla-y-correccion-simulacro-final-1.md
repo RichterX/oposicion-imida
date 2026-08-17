@@ -1,3 +1,12 @@
+﻿<!-- encabezado-homogeneizado -->
+# Simulacros Finales - PLANTILLA Y CORRECCION
+> **Bloque:** Simulacros Finales  
+> **Documento:** Plantilla y correccion  
+> **Preguntas de referencia:** N/D  
+> **Estructura objetivo:** datos del examen, instrucciones, hoja o plantilla de respuestas, y correccion razonada cuando aplique.  
+> **Revision:** 2026-08-17
+
+---
 # 📝 SIMULACRO GENERAL 01 · CORRECCIÓN Y SOLUCIONES
 ## 70 preguntas · Bloques 01 → 08
 
@@ -1057,3 +1066,4 @@ PREGUNTA | TU RESPUESTA | CORRECTA | RESULTADO | BLOQUE | DUDA
 y a partir de ella detectar exactamente dónde están tus puntos débiles.
 
 > **No buscamos simplemente una nota alta. Buscamos que cada simulacro elimine una parte de tus errores.**
+

@@ -1,3 +1,12 @@
+﻿<!-- encabezado-homogeneizado -->
+# Bloque 05 - SIMULACRO
+> **Bloque:** Bloque 05  
+> **Documento:** Simulacro  
+> **Preguntas de referencia:** 70  
+> **Estructura objetivo:** datos del examen, instrucciones, hoja o plantilla de respuestas, y correccion razonada cuando aplique.  
+> **Revision:** 2026-08-17
+
+---
 # 🏆 SIMULACRO GENERAL · BLOQUE 5
 ## Capítulos 5.3 · 5.4 · 5.5 · 5.6 · 5.8 · 5.9
 
@@ -939,3 +948,4 @@ En particular, el bloque de JSON incluido aquí llega hasta los contenidos traba
 ---
 
 # 🏁 FIN DEL SIMULACRO GENERAL
+

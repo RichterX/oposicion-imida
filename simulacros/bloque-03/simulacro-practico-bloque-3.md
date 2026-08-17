@@ -1,3 +1,12 @@
+﻿<!-- encabezado-homogeneizado -->
+# Bloque 03 - SIMULACRO
+> **Bloque:** Bloque 03  
+> **Documento:** Simulacro  
+> **Preguntas de referencia:** 99  
+> **Estructura objetivo:** datos del examen, instrucciones, hoja o plantilla de respuestas, y correccion razonada cuando aplique.  
+> **Revision:** 2026-08-17
+
+---
 # 🧪 Simulacro Bloque 3 - Bases de Datos
 
 > **Simulacro global del Bloque 3**
@@ -1256,3 +1265,4 @@ La corrección tendrá en cuenta cuatro dimensiones:
 >
 > Se trata de demostrar que, ante un problema, sabes identificar la
 > herramienta adecuada, utilizarla y explicar por qué.
+

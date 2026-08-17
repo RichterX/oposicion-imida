@@ -1,3 +1,12 @@
+﻿<!-- encabezado-homogeneizado -->
+# Bloque 01 - PLANTILLA Y CORRECCION
+> **Bloque:** Bloque 01  
+> **Documento:** Plantilla y correccion  
+> **Preguntas de referencia:** 35  
+> **Estructura objetivo:** datos del examen, instrucciones, hoja o plantilla de respuestas, y correccion razonada cuando aplique.  
+> **Revision:** 2026-08-17
+
+---
 # SIMULACRO 01
 ## Plantilla de respuestas
 

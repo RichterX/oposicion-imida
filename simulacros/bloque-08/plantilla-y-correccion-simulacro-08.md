@@ -1,3 +1,12 @@
+﻿<!-- encabezado-homogeneizado -->
+# Bloque 08 - PLANTILLA Y CORRECCION
+> **Bloque:** Bloque 08  
+> **Documento:** Plantilla y correccion  
+> **Preguntas de referencia:** 70  
+> **Estructura objetivo:** datos del examen, instrucciones, hoja o plantilla de respuestas, y correccion razonada cuando aplique.  
+> **Revision:** 2026-08-17
+
+---
 # BLOQUE 8A - PLANTILLA Y CORRECCION: IMIDA
 
 > **Bloque:** 8 - IMIDA  
@@ -354,3 +363,4 @@ Datos base: identificador, fecha/hora, origen y condiciones de conservacion.
 ### Pregunta 70 - A
 
 La calidad del resultado comienza en la toma de muestra.
+

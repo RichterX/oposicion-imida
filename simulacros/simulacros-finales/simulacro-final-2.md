@@ -1,3 +1,12 @@
+﻿<!-- encabezado-homogeneizado -->
+# Simulacros Finales - SIMULACRO
+> **Bloque:** Simulacros Finales  
+> **Documento:** Simulacro  
+> **Preguntas de referencia:** N/D  
+> **Estructura objetivo:** datos del examen, instrucciones, hoja o plantilla de respuestas, y correccion razonada cuando aplique.  
+> **Revision:** 2026-08-17
+
+---
 # 📝 SIMULACRO GENERAL 02 · EXAMEN FINAL
 ## 70 preguntas · Bloques 01 → 08
 
@@ -912,3 +921,4 @@ Cuando termines, guarda tus respuestas.
 Después prepararemos el **solucionario completo**, pero no lo abras antes de tiempo.
 
 > 🧠 **Último consejo:** no intentes demostrar que sabes el temario. Intenta resolver cada pregunta con la información que realmente contiene. El examen no premia al que reconoce palabras bonitas, sino al que distingue la respuesta correcta de tres impostoras con bigote.
+

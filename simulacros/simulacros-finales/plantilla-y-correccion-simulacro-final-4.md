@@ -1,3 +1,12 @@
+﻿<!-- encabezado-homogeneizado -->
+# Simulacros Finales - PLANTILLA Y CORRECCION
+> **Bloque:** Simulacros Finales  
+> **Documento:** Plantilla y correccion  
+> **Preguntas de referencia:** N/D  
+> **Estructura objetivo:** datos del examen, instrucciones, hoja o plantilla de respuestas, y correccion razonada cuando aplique.  
+> **Revision:** 2026-08-17
+
+---
 # 🏆 SIMULACRO FINAL · EL ÚLTIMO MONSTRUO
 ## Plantilla, respuestas y corrección · 100 preguntas
 
@@ -661,3 +670,4 @@ NUEVO TEST
 ```
 
 ## 🎓 FIN DEL ÚLTIMO MONSTRUO
+

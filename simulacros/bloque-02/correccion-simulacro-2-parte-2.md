@@ -1,3 +1,12 @@
+﻿<!-- encabezado-homogeneizado -->
+# Bloque 02 - CORRECCION RAZONADA
+> **Bloque:** Bloque 02  
+> **Documento:** Correccion razonada  
+> **Preguntas de referencia:** 35  
+> **Estructura objetivo:** datos del examen, instrucciones, hoja o plantilla de respuestas, y correccion razonada cuando aplique.  
+> **Revision:** 2026-08-17
+
+---
 # 📖 Corrección razonada
 
 ## Simulacro 01 · Bloque 2 · Redes
@@ -815,3 +824,4 @@ Si has estudiado el manual, resuelto la **Misión 4**, realizado este **simulacr
 - Afrontar con garantías tanto las preguntas tipo test como los supuestos prácticos habituales en la oposición.
 
 El Bloque 2 constituye uno de los pilares fundamentales del temario. Los conceptos estudiados aquí volverán a aparecer en bloques posteriores, especialmente en Virtualización, Cloud, Seguridad, Linux y Windows Server, por lo que dominar esta base facilitará enormemente el estudio del resto del programa.
+
